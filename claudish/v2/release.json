@@ -1,0 +1,11 @@
+{
+  "status": "experimental; style prompt assists the demo; training goal not achieved",
+  "adapter_repo": "stbenjam/qwen3-4b-claudish-mlx-lora",
+  "adapter_revision": "b2813bf4600a583d798eedfbaecf3ae537e1b6cb",
+  "adapter_sha256": "48c7a8fe4ebbb1f6903233767fcc59d94ddbf81cd5979809cf10cfd4b844370c",
+  "gguf_repo": "stbenjam/qwen3-4b-claudish-gguf",
+  "gguf_filename": "qwen3-4b-claudish-Q4_K_M.gguf",
+  "gguf_sha256": "45591883a82a2a904ba060b423eb3305d69de2146b4e1340fcad330ff9b86f4b",
+  "gguf_quantization": "Q4_K_M",
+  "gguf_revision": "22a96eaedc9fba5b235325fa68972a14991c10e0"
+}

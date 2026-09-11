@@ -1,0 +1,12 @@
+{{- $system := "You are a helpful assistant." -}}
+{{- $user := "" -}}
+{{- if .System }}{{ $system = .System }}{{ end -}}
+{{- range .Messages -}}
+{{- if eq .Role "system" }}{{ $system = .Content }}{{ end -}}
+{{- if eq .Role "user" }}{{ $user = .Content }}{{ end -}}
+{{- end -}}
+<|im_start|>system
+{{ $system }}<|im_end|>
+<|im_start|>user
+{{ $user }}<|im_end|>
+<|im_start|>assistant

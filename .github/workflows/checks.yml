@@ -25,3 +25,6 @@ jobs:
         run: |
           python make_data.py
           python -m unittest -v
+      - name: Claudish 4B template regression checks
+        working-directory: claudish/v2
+        run: python -m unittest -v

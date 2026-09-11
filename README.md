@@ -32,6 +32,27 @@ export instructions, and verification. The quantized models can produce differen
 answers from the original MLX adapters; the original benchmark numbers below
 describe MLX.
 
+## Experimental 4B Claudish checkpoint
+
+A separate [4B experiment](claudish/v2/README.md) explores verbose, mannered
+Claudish answers using a 4-bit base. Its first training run looped; the replacement
+uses gentler attention-only LoRA. **This is an experimental checkpoint, not a
+proven improvement over the tiny model.** The original demos remain the defaults.
+
+```sh
+.venv/bin/python prepare_models.py --only claudish-4b
+.venv/bin/python claudish/chat.py --four-b
+.venv/bin/python claudish/chat.py --four-b --raw
+```
+
+The 4B demo includes an explicit exaggerated style prompt by default. The last
+command disables it to test the weights alone. Use `--four-b --base` to see what
+the same style prompt does without the adapter. This mode remains prone to
+invented details and irrelevant padding. Training details,
+Q4 export, raw responses, and limitations are in the [4B guide](claudish/v2/README.md).
+The [Claudisms research report](claudish/CLAUDISMS_RESEARCH.md) documents the online
+sources, prior work, and why sentence-level mannerisms matter more than headings.
+
 ## Python chat and training on a Mac
 
 Requires Apple Silicon, Python 3.12, and [uv](https://docs.astral.sh/uv/).

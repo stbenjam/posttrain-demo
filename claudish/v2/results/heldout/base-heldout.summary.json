@@ -1,0 +1,31 @@
+{
+  "model": "models/qwen3-4b-instruct-4bit",
+  "adapter": null,
+  "cases_sha256": "4dbd40365f99ed5d012e441737aeeb09a9e1d2eabb7dc94a8cb6a7a35b59e54e",
+  "system": "You are a helpful assistant.",
+  "seed_base": 2718,
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "presence_penalty": 0.0,
+  "repetition_penalty": 1.0,
+  "penalty_context_size": 256,
+  "max_tokens": 1536,
+  "n": 12,
+  "seconds": 44.8,
+  "mean_words": 203.5,
+  "median_words": 166.0,
+  "with_headings": 8,
+  "at_least_300_words": 3,
+  "marker_responses": {
+    "load_bearing": 0,
+    "earns_keep": 0,
+    "contrast": 1,
+    "structural_metaphor": 0,
+    "emphatic_framing": 0
+  },
+  "truncated": 0,
+  "repetition_flags": 0,
+  "measurement_version": 3,
+  "content_scoring": "Unscored: inspect required facts and pitfalls manually; phrases are not accuracy."
+}

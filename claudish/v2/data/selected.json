@@ -1,0 +1,3674 @@
+[
+  {
+    "id": "online-02349",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2349,
+    "tokens": 850,
+    "headings": 0
+  },
+  {
+    "id": "online-05479",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5479,
+    "tokens": 1034,
+    "headings": 0
+  },
+  {
+    "id": "online-03971",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3971,
+    "tokens": 449,
+    "headings": 0
+  },
+  {
+    "id": "online-04099",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4099,
+    "tokens": 633,
+    "headings": 0
+  },
+  {
+    "id": "online-06477",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6477,
+    "tokens": 735,
+    "headings": 0
+  },
+  {
+    "id": "online-05053",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5053,
+    "tokens": 723,
+    "headings": 0
+  },
+  {
+    "id": "online-06753",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6753,
+    "tokens": 660,
+    "headings": 0
+  },
+  {
+    "id": "online-00897",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 897,
+    "tokens": 852,
+    "headings": 0
+  },
+  {
+    "id": "online-03285",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3285,
+    "tokens": 462,
+    "headings": 0
+  },
+  {
+    "id": "online-06229",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6229,
+    "tokens": 767,
+    "headings": 0
+  },
+  {
+    "id": "online-01091",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1091,
+    "tokens": 799,
+    "headings": 0
+  },
+  {
+    "id": "online-00625",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 625,
+    "tokens": 935,
+    "headings": 0
+  },
+  {
+    "id": "online-06371",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6371,
+    "tokens": 711,
+    "headings": 3
+  },
+  {
+    "id": "online-01156",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1156,
+    "tokens": 896,
+    "headings": 6
+  },
+  {
+    "id": "online-06604",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6604,
+    "tokens": 828,
+    "headings": 6
+  },
+  {
+    "id": "online-04529",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4529,
+    "tokens": 571,
+    "headings": 3
+  },
+  {
+    "id": "online-03036",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3036,
+    "tokens": 753,
+    "headings": 5
+  },
+  {
+    "id": "online-03363",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3363,
+    "tokens": 1008,
+    "headings": 3
+  },
+  {
+    "id": "online-02849",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2849,
+    "tokens": 1106,
+    "headings": 3
+  },
+  {
+    "id": "online-01152",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1152,
+    "tokens": 491,
+    "headings": 8
+  },
+  {
+    "id": "online-04389",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4389,
+    "tokens": 980,
+    "headings": 5
+  },
+  {
+    "id": "online-03846",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3846,
+    "tokens": 778,
+    "headings": 4
+  },
+  {
+    "id": "online-00895",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 895,
+    "tokens": 508,
+    "headings": 3
+  },
+  {
+    "id": "online-06762",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6762,
+    "tokens": 844,
+    "headings": 5
+  },
+  {
+    "id": "online-06132",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6132,
+    "tokens": 983,
+    "headings": 6
+  },
+  {
+    "id": "online-05434",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5434,
+    "tokens": 572,
+    "headings": 4
+  },
+  {
+    "id": "online-06340",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6340,
+    "tokens": 777,
+    "headings": 4
+  },
+  {
+    "id": "online-03926",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3926,
+    "tokens": 697,
+    "headings": 4
+  },
+  {
+    "id": "online-05947",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5947,
+    "tokens": 433,
+    "headings": 3
+  },
+  {
+    "id": "online-02225",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2225,
+    "tokens": 998,
+    "headings": 7
+  },
+  {
+    "id": "online-05031",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5031,
+    "tokens": 951,
+    "headings": 3
+  },
+  {
+    "id": "online-01130",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1130,
+    "tokens": 846,
+    "headings": 5
+  },
+  {
+    "id": "online-01966",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1966,
+    "tokens": 627,
+    "headings": 4
+  },
+  {
+    "id": "online-03858",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3858,
+    "tokens": 1057,
+    "headings": 3
+  },
+  {
+    "id": "online-02725",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2725,
+    "tokens": 825,
+    "headings": 1
+  },
+  {
+    "id": "online-05687",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5687,
+    "tokens": 1117,
+    "headings": 5
+  },
+  {
+    "id": "online-06086",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6086,
+    "tokens": 881,
+    "headings": 5
+  },
+  {
+    "id": "online-01061",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1061,
+    "tokens": 634,
+    "headings": 5
+  },
+  {
+    "id": "online-04112",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4112,
+    "tokens": 743,
+    "headings": 3
+  },
+  {
+    "id": "online-02639",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2639,
+    "tokens": 1027,
+    "headings": 3
+  },
+  {
+    "id": "online-05644",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5644,
+    "tokens": 847,
+    "headings": 3
+  },
+  {
+    "id": "online-02811",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2811,
+    "tokens": 974,
+    "headings": 5
+  },
+  {
+    "id": "online-00936",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 936,
+    "tokens": 823,
+    "headings": 4
+  },
+  {
+    "id": "online-03432",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3432,
+    "tokens": 659,
+    "headings": 6
+  },
+  {
+    "id": "online-01154",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1154,
+    "tokens": 1012,
+    "headings": 2
+  },
+  {
+    "id": "online-06620",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6620,
+    "tokens": 1010,
+    "headings": 4
+  },
+  {
+    "id": "online-01470",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1470,
+    "tokens": 1047,
+    "headings": 6
+  },
+  {
+    "id": "online-00815",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 815,
+    "tokens": 999,
+    "headings": 5
+  },
+  {
+    "id": "online-01956",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1956,
+    "tokens": 1040,
+    "headings": 5
+  },
+  {
+    "id": "online-00143",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 143,
+    "tokens": 477,
+    "headings": 3
+  },
+  {
+    "id": "online-06596",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6596,
+    "tokens": 987,
+    "headings": 2
+  },
+  {
+    "id": "online-01002",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1002,
+    "tokens": 945,
+    "headings": 5
+  },
+  {
+    "id": "online-02268",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2268,
+    "tokens": 689,
+    "headings": 3
+  },
+  {
+    "id": "online-03506",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3506,
+    "tokens": 827,
+    "headings": 4
+  },
+  {
+    "id": "online-02817",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2817,
+    "tokens": 960,
+    "headings": 4
+  },
+  {
+    "id": "online-05340",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5340,
+    "tokens": 982,
+    "headings": 1
+  },
+  {
+    "id": "online-01432",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1432,
+    "tokens": 1142,
+    "headings": 6
+  },
+  {
+    "id": "online-04454",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4454,
+    "tokens": 812,
+    "headings": 4
+  },
+  {
+    "id": "online-00314",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 314,
+    "tokens": 975,
+    "headings": 7
+  },
+  {
+    "id": "online-01206",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1206,
+    "tokens": 1169,
+    "headings": 7
+  },
+  {
+    "id": "online-03465",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3465,
+    "tokens": 1208,
+    "headings": 4
+  },
+  {
+    "id": "online-01655",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1655,
+    "tokens": 1014,
+    "headings": 6
+  },
+  {
+    "id": "online-06567",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6567,
+    "tokens": 1089,
+    "headings": 5
+  },
+  {
+    "id": "online-02814",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2814,
+    "tokens": 652,
+    "headings": 4
+  },
+  {
+    "id": "online-07173",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 7173,
+    "tokens": 913,
+    "headings": 4
+  },
+  {
+    "id": "online-03614",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3614,
+    "tokens": 916,
+    "headings": 4
+  },
+  {
+    "id": "online-05754",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5754,
+    "tokens": 709,
+    "headings": 2
+  },
+  {
+    "id": "online-01753",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1753,
+    "tokens": 820,
+    "headings": 5
+  },
+  {
+    "id": "online-05839",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5839,
+    "tokens": 910,
+    "headings": 5
+  },
+  {
+    "id": "online-04574",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4574,
+    "tokens": 719,
+    "headings": 2
+  },
+  {
+    "id": "online-05593",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5593,
+    "tokens": 857,
+    "headings": 0
+  },
+  {
+    "id": "online-00981",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 981,
+    "tokens": 592,
+    "headings": 0
+  },
+  {
+    "id": "online-05901",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5901,
+    "tokens": 628,
+    "headings": 0
+  },
+  {
+    "id": "online-00383",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 383,
+    "tokens": 726,
+    "headings": 0
+  },
+  {
+    "id": "online-02655",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2655,
+    "tokens": 803,
+    "headings": 0
+  },
+  {
+    "id": "online-04689",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4689,
+    "tokens": 679,
+    "headings": 0
+  },
+  {
+    "id": "online-07027",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 7027,
+    "tokens": 638,
+    "headings": 0
+  },
+  {
+    "id": "online-00287",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 287,
+    "tokens": 696,
+    "headings": 0
+  },
+  {
+    "id": "online-05653",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5653,
+    "tokens": 597,
+    "headings": 0
+  },
+  {
+    "id": "online-01600",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1600,
+    "tokens": 818,
+    "headings": 0
+  },
+  {
+    "id": "online-03454",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3454,
+    "tokens": 671,
+    "headings": 0
+  },
+  {
+    "id": "online-05441",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5441,
+    "tokens": 673,
+    "headings": 0
+  },
+  {
+    "id": "online-01978",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1978,
+    "tokens": 851,
+    "headings": 0
+  },
+  {
+    "id": "online-02853",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2853,
+    "tokens": 644,
+    "headings": 0
+  },
+  {
+    "id": "online-00597",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 597,
+    "tokens": 589,
+    "headings": 0
+  },
+  {
+    "id": "online-04125",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4125,
+    "tokens": 831,
+    "headings": 0
+  },
+  {
+    "id": "online-05935",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5935,
+    "tokens": 706,
+    "headings": 0
+  },
+  {
+    "id": "online-01071",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1071,
+    "tokens": 893,
+    "headings": 0
+  },
+  {
+    "id": "online-04261",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4261,
+    "tokens": 737,
+    "headings": 0
+  },
+  {
+    "id": "online-07172",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 7172,
+    "tokens": 873,
+    "headings": 0
+  },
+  {
+    "id": "online-00739",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 739,
+    "tokens": 746,
+    "headings": 0
+  },
+  {
+    "id": "online-01500",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1500,
+    "tokens": 824,
+    "headings": 0
+  },
+  {
+    "id": "online-06872",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6872,
+    "tokens": 778,
+    "headings": 0
+  },
+  {
+    "id": "online-02602",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2602,
+    "tokens": 639,
+    "headings": 0
+  },
+  {
+    "id": "online-04088",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4088,
+    "tokens": 754,
+    "headings": 0
+  },
+  {
+    "id": "online-01293",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1293,
+    "tokens": 815,
+    "headings": 0
+  },
+  {
+    "id": "online-02235",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2235,
+    "tokens": 775,
+    "headings": 0
+  },
+  {
+    "id": "online-05896",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5896,
+    "tokens": 677,
+    "headings": 0
+  },
+  {
+    "id": "online-00264",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 264,
+    "tokens": 790,
+    "headings": 0
+  },
+  {
+    "id": "online-02495",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2495,
+    "tokens": 845,
+    "headings": 0
+  },
+  {
+    "id": "online-02898",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2898,
+    "tokens": 578,
+    "headings": 0
+  },
+  {
+    "id": "online-01491",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1491,
+    "tokens": 554,
+    "headings": 0
+  },
+  {
+    "id": "online-00500",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 500,
+    "tokens": 685,
+    "headings": 0
+  },
+  {
+    "id": "online-02122",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2122,
+    "tokens": 732,
+    "headings": 0
+  },
+  {
+    "id": "online-05104",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5104,
+    "tokens": 558,
+    "headings": 0
+  },
+  {
+    "id": "online-05691",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5691,
+    "tokens": 647,
+    "headings": 0
+  },
+  {
+    "id": "online-02051",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2051,
+    "tokens": 765,
+    "headings": 0
+  },
+  {
+    "id": "online-06139",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6139,
+    "tokens": 863,
+    "headings": 0
+  },
+  {
+    "id": "online-03420",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3420,
+    "tokens": 650,
+    "headings": 0
+  },
+  {
+    "id": "online-05202",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5202,
+    "tokens": 697,
+    "headings": 0
+  },
+  {
+    "id": "online-03641",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3641,
+    "tokens": 782,
+    "headings": 0
+  },
+  {
+    "id": "online-07094",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 7094,
+    "tokens": 630,
+    "headings": 0
+  },
+  {
+    "id": "online-04631",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4631,
+    "tokens": 1034,
+    "headings": 0
+  },
+  {
+    "id": "online-06764",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6764,
+    "tokens": 949,
+    "headings": 0
+  },
+  {
+    "id": "online-00325",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 325,
+    "tokens": 536,
+    "headings": 0
+  },
+  {
+    "id": "online-07040",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 7040,
+    "tokens": 671,
+    "headings": 0
+  },
+  {
+    "id": "online-03224",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3224,
+    "tokens": 778,
+    "headings": 0
+  },
+  {
+    "id": "online-06627",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6627,
+    "tokens": 816,
+    "headings": 0
+  },
+  {
+    "id": "online-06802",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6802,
+    "tokens": 582,
+    "headings": 0
+  },
+  {
+    "id": "online-05879",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5879,
+    "tokens": 809,
+    "headings": 0
+  },
+  {
+    "id": "online-06287",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6287,
+    "tokens": 684,
+    "headings": 0
+  },
+  {
+    "id": "online-01633",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1633,
+    "tokens": 1029,
+    "headings": 0
+  },
+  {
+    "id": "online-03165",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3165,
+    "tokens": 753,
+    "headings": 0
+  },
+  {
+    "id": "online-00911",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 911,
+    "tokens": 957,
+    "headings": 0
+  },
+  {
+    "id": "online-01360",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1360,
+    "tokens": 1105,
+    "headings": 0
+  },
+  {
+    "id": "online-07046",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 7046,
+    "tokens": 874,
+    "headings": 0
+  },
+  {
+    "id": "online-00576",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 576,
+    "tokens": 736,
+    "headings": 0
+  },
+  {
+    "id": "online-04225",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4225,
+    "tokens": 951,
+    "headings": 0
+  },
+  {
+    "id": "online-04382",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4382,
+    "tokens": 1053,
+    "headings": 0
+  },
+  {
+    "id": "online-06652",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6652,
+    "tokens": 769,
+    "headings": 0
+  },
+  {
+    "id": "online-00541",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 541,
+    "tokens": 721,
+    "headings": 0
+  },
+  {
+    "id": "online-05311",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5311,
+    "tokens": 844,
+    "headings": 0
+  },
+  {
+    "id": "online-00714",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 714,
+    "tokens": 605,
+    "headings": 0
+  },
+  {
+    "id": "online-00191",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 191,
+    "tokens": 616,
+    "headings": 0
+  },
+  {
+    "id": "online-03105",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3105,
+    "tokens": 817,
+    "headings": 0
+  },
+  {
+    "id": "online-01106",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1106,
+    "tokens": 823,
+    "headings": 0
+  },
+  {
+    "id": "online-05638",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5638,
+    "tokens": 706,
+    "headings": 0
+  },
+  {
+    "id": "online-05289",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5289,
+    "tokens": 862,
+    "headings": 0
+  },
+  {
+    "id": "online-03889",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3889,
+    "tokens": 715,
+    "headings": 0
+  },
+  {
+    "id": "online-01512",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1512,
+    "tokens": 663,
+    "headings": 0
+  },
+  {
+    "id": "online-01171",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1171,
+    "tokens": 845,
+    "headings": 0
+  },
+  {
+    "id": "online-04643",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4643,
+    "tokens": 520,
+    "headings": 0
+  },
+  {
+    "id": "online-00965",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 965,
+    "tokens": 648,
+    "headings": 0
+  },
+  {
+    "id": "online-07162",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 7162,
+    "tokens": 1216,
+    "headings": 0
+  },
+  {
+    "id": "online-03023",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3023,
+    "tokens": 747,
+    "headings": 0
+  },
+  {
+    "id": "online-04946",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4946,
+    "tokens": 923,
+    "headings": 0
+  },
+  {
+    "id": "online-05550",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5550,
+    "tokens": 1012,
+    "headings": 0
+  },
+  {
+    "id": "online-02600",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2600,
+    "tokens": 731,
+    "headings": 0
+  },
+  {
+    "id": "online-00373",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 373,
+    "tokens": 907,
+    "headings": 0
+  },
+  {
+    "id": "online-02616",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2616,
+    "tokens": 812,
+    "headings": 0
+  },
+  {
+    "id": "online-02611",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2611,
+    "tokens": 708,
+    "headings": 0
+  },
+  {
+    "id": "online-03627",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3627,
+    "tokens": 506,
+    "headings": 0
+  },
+  {
+    "id": "online-01450",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1450,
+    "tokens": 517,
+    "headings": 0
+  },
+  {
+    "id": "online-06161",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6161,
+    "tokens": 963,
+    "headings": 0
+  },
+  {
+    "id": "online-03990",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3990,
+    "tokens": 643,
+    "headings": 0
+  },
+  {
+    "id": "online-06301",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6301,
+    "tokens": 684,
+    "headings": 0
+  },
+  {
+    "id": "online-05380",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5380,
+    "tokens": 579,
+    "headings": 0
+  },
+  {
+    "id": "online-06401",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6401,
+    "tokens": 622,
+    "headings": 0
+  },
+  {
+    "id": "online-00677",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 677,
+    "tokens": 871,
+    "headings": 0
+  },
+  {
+    "id": "online-03167",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3167,
+    "tokens": 556,
+    "headings": 0
+  },
+  {
+    "id": "online-00491",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 491,
+    "tokens": 476,
+    "headings": 0
+  },
+  {
+    "id": "online-02152",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2152,
+    "tokens": 878,
+    "headings": 0
+  },
+  {
+    "id": "online-00689",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 689,
+    "tokens": 692,
+    "headings": 0
+  },
+  {
+    "id": "online-00570",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 570,
+    "tokens": 894,
+    "headings": 0
+  },
+  {
+    "id": "online-02066",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2066,
+    "tokens": 717,
+    "headings": 0
+  },
+  {
+    "id": "online-04573",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4573,
+    "tokens": 835,
+    "headings": 0
+  },
+  {
+    "id": "online-01478",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1478,
+    "tokens": 697,
+    "headings": 0
+  },
+  {
+    "id": "online-06726",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6726,
+    "tokens": 913,
+    "headings": 0
+  },
+  {
+    "id": "online-02781",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2781,
+    "tokens": 553,
+    "headings": 0
+  },
+  {
+    "id": "online-00359",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 359,
+    "tokens": 471,
+    "headings": 0
+  },
+  {
+    "id": "online-05175",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5175,
+    "tokens": 714,
+    "headings": 0
+  },
+  {
+    "id": "online-02962",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2962,
+    "tokens": 682,
+    "headings": 0
+  },
+  {
+    "id": "online-06105",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6105,
+    "tokens": 855,
+    "headings": 0
+  },
+  {
+    "id": "online-06570",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6570,
+    "tokens": 794,
+    "headings": 0
+  },
+  {
+    "id": "online-03168",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3168,
+    "tokens": 719,
+    "headings": 0
+  },
+  {
+    "id": "online-03326",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3326,
+    "tokens": 763,
+    "headings": 0
+  },
+  {
+    "id": "online-01126",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1126,
+    "tokens": 452,
+    "headings": 0
+  },
+  {
+    "id": "online-05352",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5352,
+    "tokens": 730,
+    "headings": 0
+  },
+  {
+    "id": "online-01543",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1543,
+    "tokens": 840,
+    "headings": 0
+  },
+  {
+    "id": "online-03566",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3566,
+    "tokens": 686,
+    "headings": 0
+  },
+  {
+    "id": "online-04058",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4058,
+    "tokens": 798,
+    "headings": 0
+  },
+  {
+    "id": "online-00853",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 853,
+    "tokens": 873,
+    "headings": 0
+  },
+  {
+    "id": "online-02311",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2311,
+    "tokens": 958,
+    "headings": 0
+  },
+  {
+    "id": "online-06156",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6156,
+    "tokens": 579,
+    "headings": 0
+  },
+  {
+    "id": "online-01307",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1307,
+    "tokens": 722,
+    "headings": 0
+  },
+  {
+    "id": "online-06362",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6362,
+    "tokens": 955,
+    "headings": 0
+  },
+  {
+    "id": "online-05054",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5054,
+    "tokens": 859,
+    "headings": 0
+  },
+  {
+    "id": "online-06819",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6819,
+    "tokens": 716,
+    "headings": 0
+  },
+  {
+    "id": "online-05633",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5633,
+    "tokens": 1059,
+    "headings": 0
+  },
+  {
+    "id": "online-00146",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 146,
+    "tokens": 917,
+    "headings": 0
+  },
+  {
+    "id": "online-00083",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 83,
+    "tokens": 957,
+    "headings": 0
+  },
+  {
+    "id": "online-05894",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5894,
+    "tokens": 860,
+    "headings": 0
+  },
+  {
+    "id": "online-00221",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 221,
+    "tokens": 539,
+    "headings": 0
+  },
+  {
+    "id": "online-06330",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6330,
+    "tokens": 732,
+    "headings": 0
+  },
+  {
+    "id": "online-03978",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3978,
+    "tokens": 873,
+    "headings": 0
+  },
+  {
+    "id": "online-05998",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5998,
+    "tokens": 477,
+    "headings": 0
+  },
+  {
+    "id": "online-02230",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2230,
+    "tokens": 1412,
+    "headings": 0
+  },
+  {
+    "id": "online-01554",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1554,
+    "tokens": 437,
+    "headings": 0
+  },
+  {
+    "id": "online-05521",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5521,
+    "tokens": 944,
+    "headings": 0
+  },
+  {
+    "id": "online-02546",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2546,
+    "tokens": 856,
+    "headings": 0
+  },
+  {
+    "id": "online-04885",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4885,
+    "tokens": 612,
+    "headings": 0
+  },
+  {
+    "id": "online-03159",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3159,
+    "tokens": 899,
+    "headings": 0
+  },
+  {
+    "id": "online-04004",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4004,
+    "tokens": 737,
+    "headings": 0
+  },
+  {
+    "id": "online-00388",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 388,
+    "tokens": 798,
+    "headings": 0
+  },
+  {
+    "id": "online-02464",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2464,
+    "tokens": 950,
+    "headings": 0
+  },
+  {
+    "id": "online-05956",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5956,
+    "tokens": 760,
+    "headings": 0
+  },
+  {
+    "id": "online-03853",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3853,
+    "tokens": 617,
+    "headings": 0
+  },
+  {
+    "id": "online-04983",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4983,
+    "tokens": 840,
+    "headings": 0
+  },
+  {
+    "id": "online-06708",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6708,
+    "tokens": 1059,
+    "headings": 0
+  },
+  {
+    "id": "online-01317",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1317,
+    "tokens": 438,
+    "headings": 0
+  },
+  {
+    "id": "online-02068",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2068,
+    "tokens": 748,
+    "headings": 0
+  },
+  {
+    "id": "online-04414",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4414,
+    "tokens": 670,
+    "headings": 0
+  },
+  {
+    "id": "online-03881",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3881,
+    "tokens": 613,
+    "headings": 0
+  },
+  {
+    "id": "online-01327",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1327,
+    "tokens": 615,
+    "headings": 0
+  },
+  {
+    "id": "online-00495",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 495,
+    "tokens": 800,
+    "headings": 0
+  },
+  {
+    "id": "online-00760",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 760,
+    "tokens": 986,
+    "headings": 0
+  },
+  {
+    "id": "online-03477",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3477,
+    "tokens": 753,
+    "headings": 0
+  },
+  {
+    "id": "online-03322",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3322,
+    "tokens": 877,
+    "headings": 0
+  },
+  {
+    "id": "online-03066",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3066,
+    "tokens": 683,
+    "headings": 0
+  },
+  {
+    "id": "online-03468",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3468,
+    "tokens": 857,
+    "headings": 0
+  },
+  {
+    "id": "online-01690",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1690,
+    "tokens": 958,
+    "headings": 0
+  },
+  {
+    "id": "online-06689",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6689,
+    "tokens": 897,
+    "headings": 0
+  },
+  {
+    "id": "online-04887",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4887,
+    "tokens": 554,
+    "headings": 0
+  },
+  {
+    "id": "online-01399",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1399,
+    "tokens": 513,
+    "headings": 0
+  },
+  {
+    "id": "online-03631",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3631,
+    "tokens": 917,
+    "headings": 0
+  },
+  {
+    "id": "online-00138",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 138,
+    "tokens": 631,
+    "headings": 0
+  },
+  {
+    "id": "online-06883",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6883,
+    "tokens": 700,
+    "headings": 0
+  },
+  {
+    "id": "online-02625",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2625,
+    "tokens": 576,
+    "headings": 0
+  },
+  {
+    "id": "online-00344",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 344,
+    "tokens": 819,
+    "headings": 0
+  },
+  {
+    "id": "online-04980",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4980,
+    "tokens": 1434,
+    "headings": 0
+  },
+  {
+    "id": "online-00923",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 923,
+    "tokens": 783,
+    "headings": 0
+  },
+  {
+    "id": "online-04019",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4019,
+    "tokens": 697,
+    "headings": 0
+  },
+  {
+    "id": "online-00366",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 366,
+    "tokens": 886,
+    "headings": 0
+  },
+  {
+    "id": "online-06039",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6039,
+    "tokens": 944,
+    "headings": 0
+  },
+  {
+    "id": "online-06545",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6545,
+    "tokens": 765,
+    "headings": 0
+  },
+  {
+    "id": "online-02773",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2773,
+    "tokens": 936,
+    "headings": 0
+  },
+  {
+    "id": "online-01939",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1939,
+    "tokens": 906,
+    "headings": 0
+  },
+  {
+    "id": "online-03195",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3195,
+    "tokens": 695,
+    "headings": 0
+  },
+  {
+    "id": "online-02638",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2638,
+    "tokens": 827,
+    "headings": 0
+  },
+  {
+    "id": "online-06719",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6719,
+    "tokens": 874,
+    "headings": 0
+  },
+  {
+    "id": "online-03197",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3197,
+    "tokens": 843,
+    "headings": 0
+  },
+  {
+    "id": "online-07052",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 7052,
+    "tokens": 1016,
+    "headings": 0
+  },
+  {
+    "id": "online-05979",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5979,
+    "tokens": 735,
+    "headings": 0
+  },
+  {
+    "id": "online-00863",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 863,
+    "tokens": 715,
+    "headings": 0
+  },
+  {
+    "id": "online-05126",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5126,
+    "tokens": 882,
+    "headings": 0
+  },
+  {
+    "id": "online-05299",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5299,
+    "tokens": 553,
+    "headings": 0
+  },
+  {
+    "id": "online-04353",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4353,
+    "tokens": 852,
+    "headings": 0
+  },
+  {
+    "id": "online-06931",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6931,
+    "tokens": 695,
+    "headings": 0
+  },
+  {
+    "id": "online-04255",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4255,
+    "tokens": 925,
+    "headings": 0
+  },
+  {
+    "id": "online-01001",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1001,
+    "tokens": 716,
+    "headings": 0
+  },
+  {
+    "id": "online-04027",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4027,
+    "tokens": 691,
+    "headings": 0
+  },
+  {
+    "id": "online-05513",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5513,
+    "tokens": 751,
+    "headings": 0
+  },
+  {
+    "id": "online-05833",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5833,
+    "tokens": 898,
+    "headings": 0
+  },
+  {
+    "id": "online-04010",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4010,
+    "tokens": 787,
+    "headings": 0
+  },
+  {
+    "id": "online-01747",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1747,
+    "tokens": 553,
+    "headings": 0
+  },
+  {
+    "id": "online-01104",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1104,
+    "tokens": 907,
+    "headings": 0
+  },
+  {
+    "id": "online-02142",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2142,
+    "tokens": 989,
+    "headings": 0
+  },
+  {
+    "id": "online-01043",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1043,
+    "tokens": 839,
+    "headings": 0
+  },
+  {
+    "id": "online-04263",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4263,
+    "tokens": 1173,
+    "headings": 0
+  },
+  {
+    "id": "online-06456",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6456,
+    "tokens": 782,
+    "headings": 0
+  },
+  {
+    "id": "online-01946",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1946,
+    "tokens": 664,
+    "headings": 0
+  },
+  {
+    "id": "online-02850",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2850,
+    "tokens": 536,
+    "headings": 0
+  },
+  {
+    "id": "online-05188",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5188,
+    "tokens": 907,
+    "headings": 0
+  },
+  {
+    "id": "online-03471",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3471,
+    "tokens": 550,
+    "headings": 0
+  },
+  {
+    "id": "online-05468",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5468,
+    "tokens": 871,
+    "headings": 0
+  },
+  {
+    "id": "online-03364",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3364,
+    "tokens": 541,
+    "headings": 0
+  },
+  {
+    "id": "online-01258",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1258,
+    "tokens": 919,
+    "headings": 0
+  },
+  {
+    "id": "online-02487",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2487,
+    "tokens": 1090,
+    "headings": 0
+  },
+  {
+    "id": "online-01133",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1133,
+    "tokens": 748,
+    "headings": 0
+  },
+  {
+    "id": "online-02998",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2998,
+    "tokens": 607,
+    "headings": 0
+  },
+  {
+    "id": "online-02992",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2992,
+    "tokens": 801,
+    "headings": 0
+  },
+  {
+    "id": "online-05390",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5390,
+    "tokens": 603,
+    "headings": 0
+  },
+  {
+    "id": "online-03688",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3688,
+    "tokens": 1006,
+    "headings": 0
+  },
+  {
+    "id": "online-05123",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5123,
+    "tokens": 781,
+    "headings": 0
+  },
+  {
+    "id": "online-04956",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4956,
+    "tokens": 570,
+    "headings": 0
+  },
+  {
+    "id": "online-01700",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1700,
+    "tokens": 583,
+    "headings": 0
+  },
+  {
+    "id": "online-02410",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2410,
+    "tokens": 687,
+    "headings": 0
+  },
+  {
+    "id": "online-04153",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4153,
+    "tokens": 435,
+    "headings": 0
+  },
+  {
+    "id": "online-00195",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 195,
+    "tokens": 699,
+    "headings": 0
+  },
+  {
+    "id": "online-03496",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3496,
+    "tokens": 1107,
+    "headings": 0
+  },
+  {
+    "id": "online-04572",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4572,
+    "tokens": 691,
+    "headings": 0
+  },
+  {
+    "id": "online-00428",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 428,
+    "tokens": 649,
+    "headings": 0
+  },
+  {
+    "id": "online-04637",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4637,
+    "tokens": 987,
+    "headings": 0
+  },
+  {
+    "id": "online-04725",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4725,
+    "tokens": 692,
+    "headings": 0
+  },
+  {
+    "id": "online-02901",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2901,
+    "tokens": 972,
+    "headings": 0
+  },
+  {
+    "id": "online-02855",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2855,
+    "tokens": 1074,
+    "headings": 0
+  },
+  {
+    "id": "online-03004",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3004,
+    "tokens": 635,
+    "headings": 0
+  },
+  {
+    "id": "online-01068",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1068,
+    "tokens": 598,
+    "headings": 0
+  },
+  {
+    "id": "online-01772",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1772,
+    "tokens": 741,
+    "headings": 0
+  },
+  {
+    "id": "online-05028",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5028,
+    "tokens": 936,
+    "headings": 0
+  },
+  {
+    "id": "online-02719",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2719,
+    "tokens": 849,
+    "headings": 0
+  },
+  {
+    "id": "online-04769",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4769,
+    "tokens": 770,
+    "headings": 0
+  },
+  {
+    "id": "online-05461",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5461,
+    "tokens": 740,
+    "headings": 0
+  },
+  {
+    "id": "online-00966",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 966,
+    "tokens": 615,
+    "headings": 0
+  },
+  {
+    "id": "online-02215",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2215,
+    "tokens": 788,
+    "headings": 0
+  },
+  {
+    "id": "online-00565",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 565,
+    "tokens": 934,
+    "headings": 0
+  },
+  {
+    "id": "online-04108",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4108,
+    "tokens": 643,
+    "headings": 0
+  },
+  {
+    "id": "online-01441",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1441,
+    "tokens": 801,
+    "headings": 0
+  },
+  {
+    "id": "online-01586",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1586,
+    "tokens": 1063,
+    "headings": 0
+  },
+  {
+    "id": "online-01954",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1954,
+    "tokens": 828,
+    "headings": 0
+  },
+  {
+    "id": "online-02788",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2788,
+    "tokens": 859,
+    "headings": 0
+  },
+  {
+    "id": "online-02515",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2515,
+    "tokens": 943,
+    "headings": 0
+  },
+  {
+    "id": "online-04803",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4803,
+    "tokens": 1038,
+    "headings": 6
+  },
+  {
+    "id": "online-00724",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 724,
+    "tokens": 1145,
+    "headings": 5
+  },
+  {
+    "id": "online-00490",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 490,
+    "tokens": 1093,
+    "headings": 7
+  },
+  {
+    "id": "online-00460",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 460,
+    "tokens": 1031,
+    "headings": 4
+  },
+  {
+    "id": "online-03523",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3523,
+    "tokens": 607,
+    "headings": 6
+  },
+  {
+    "id": "online-01277",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1277,
+    "tokens": 714,
+    "headings": 4
+  },
+  {
+    "id": "online-04534",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4534,
+    "tokens": 815,
+    "headings": 2
+  },
+  {
+    "id": "online-01711",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1711,
+    "tokens": 593,
+    "headings": 3
+  },
+  {
+    "id": "online-03866",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3866,
+    "tokens": 729,
+    "headings": 2
+  },
+  {
+    "id": "online-00382",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-7",
+    "source_row": 382,
+    "tokens": 1035,
+    "headings": 4
+  },
+  {
+    "id": "online-06577",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6577,
+    "tokens": 650,
+    "headings": 4
+  },
+  {
+    "id": "online-03012",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3012,
+    "tokens": 897,
+    "headings": 5
+  },
+  {
+    "id": "online-01381",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1381,
+    "tokens": 1018,
+    "headings": 4
+  },
+  {
+    "id": "online-00218",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 218,
+    "tokens": 878,
+    "headings": 6
+  },
+  {
+    "id": "online-06665",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6665,
+    "tokens": 913,
+    "headings": 6
+  },
+  {
+    "id": "online-06255",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6255,
+    "tokens": 909,
+    "headings": 4
+  },
+  {
+    "id": "online-03088",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3088,
+    "tokens": 583,
+    "headings": 3
+  },
+  {
+    "id": "online-04639",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4639,
+    "tokens": 551,
+    "headings": 6
+  },
+  {
+    "id": "online-05354",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5354,
+    "tokens": 751,
+    "headings": 5
+  },
+  {
+    "id": "online-06699",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6699,
+    "tokens": 935,
+    "headings": 6
+  },
+  {
+    "id": "online-05542",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5542,
+    "tokens": 889,
+    "headings": 2
+  },
+  {
+    "id": "online-00402",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 402,
+    "tokens": 520,
+    "headings": 2
+  },
+  {
+    "id": "online-00844",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 844,
+    "tokens": 1031,
+    "headings": 4
+  },
+  {
+    "id": "online-05362",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5362,
+    "tokens": 913,
+    "headings": 4
+  },
+  {
+    "id": "online-03687",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3687,
+    "tokens": 696,
+    "headings": 3
+  },
+  {
+    "id": "online-04807",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4807,
+    "tokens": 814,
+    "headings": 3
+  },
+  {
+    "id": "online-01504",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1504,
+    "tokens": 926,
+    "headings": 5
+  },
+  {
+    "id": "online-06444",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6444,
+    "tokens": 697,
+    "headings": 6
+  },
+  {
+    "id": "online-01774",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1774,
+    "tokens": 502,
+    "headings": 2
+  },
+  {
+    "id": "online-00574",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 574,
+    "tokens": 1109,
+    "headings": 5
+  },
+  {
+    "id": "online-06419",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6419,
+    "tokens": 901,
+    "headings": 5
+  },
+  {
+    "id": "online-07050",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 7050,
+    "tokens": 631,
+    "headings": 3
+  },
+  {
+    "id": "online-05013",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5013,
+    "tokens": 773,
+    "headings": 4
+  },
+  {
+    "id": "online-05797",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5797,
+    "tokens": 555,
+    "headings": 3
+  },
+  {
+    "id": "online-05584",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5584,
+    "tokens": 654,
+    "headings": 4
+  },
+  {
+    "id": "online-03638",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3638,
+    "tokens": 1042,
+    "headings": 6
+  },
+  {
+    "id": "online-01535",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1535,
+    "tokens": 516,
+    "headings": 1
+  },
+  {
+    "id": "online-05298",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5298,
+    "tokens": 503,
+    "headings": 4
+  },
+  {
+    "id": "online-02508",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "math",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2508,
+    "tokens": 939,
+    "headings": 3
+  },
+  {
+    "id": "online-05782",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5782,
+    "tokens": 559,
+    "headings": 3
+  },
+  {
+    "id": "online-06449",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6449,
+    "tokens": 932,
+    "headings": 4
+  },
+  {
+    "id": "online-05921",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5921,
+    "tokens": 838,
+    "headings": 3
+  },
+  {
+    "id": "online-00401",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 401,
+    "tokens": 599,
+    "headings": 8
+  },
+  {
+    "id": "online-03120",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3120,
+    "tokens": 977,
+    "headings": 4
+  },
+  {
+    "id": "online-00111",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 111,
+    "tokens": 502,
+    "headings": 9
+  },
+  {
+    "id": "online-02106",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2106,
+    "tokens": 1048,
+    "headings": 5
+  },
+  {
+    "id": "online-01496",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1496,
+    "tokens": 514,
+    "headings": 3
+  },
+  {
+    "id": "online-02928",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2928,
+    "tokens": 944,
+    "headings": 4
+  },
+  {
+    "id": "online-06538",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6538,
+    "tokens": 758,
+    "headings": 3
+  },
+  {
+    "id": "online-03961",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-6",
+    "source_row": 3961,
+    "tokens": 547,
+    "headings": 3
+  },
+  {
+    "id": "online-04069",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 4069,
+    "tokens": 1084,
+    "headings": 4
+  },
+  {
+    "id": "online-05083",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5083,
+    "tokens": 953,
+    "headings": 4
+  },
+  {
+    "id": "online-02894",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "business",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2894,
+    "tokens": 916,
+    "headings": 5
+  },
+  {
+    "id": "online-02155",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2155,
+    "tokens": 818,
+    "headings": 2
+  },
+  {
+    "id": "online-05255",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5255,
+    "tokens": 1507,
+    "headings": 7
+  },
+  {
+    "id": "online-05732",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "general",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5732,
+    "tokens": 602,
+    "headings": 5
+  },
+  {
+    "id": "online-06957",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6957,
+    "tokens": 1240,
+    "headings": 4
+  },
+  {
+    "id": "online-00777",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 777,
+    "tokens": 813,
+    "headings": 3
+  },
+  {
+    "id": "online-02880",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2880,
+    "tokens": 1380,
+    "headings": 4
+  },
+  {
+    "id": "online-05046",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 5046,
+    "tokens": 1229,
+    "headings": 0
+  },
+  {
+    "id": "online-05587",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5587,
+    "tokens": 694,
+    "headings": 0
+  },
+  {
+    "id": "online-05885",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5885,
+    "tokens": 536,
+    "headings": 9
+  },
+  {
+    "id": "online-05077",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-6",
+    "source_row": 5077,
+    "tokens": 871,
+    "headings": 3
+  },
+  {
+    "id": "online-07071",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 7071,
+    "tokens": 582,
+    "headings": 4
+  },
+  {
+    "id": "online-03228",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3228,
+    "tokens": 764,
+    "headings": 3
+  },
+  {
+    "id": "online-01705",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1705,
+    "tokens": 769,
+    "headings": 5
+  },
+  {
+    "id": "online-02577",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2577,
+    "tokens": 1598,
+    "headings": 7
+  },
+  {
+    "id": "online-02764",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2764,
+    "tokens": 869,
+    "headings": 7
+  },
+  {
+    "id": "online-01803",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1803,
+    "tokens": 753,
+    "headings": 4
+  },
+  {
+    "id": "online-02578",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2578,
+    "tokens": 679,
+    "headings": 0
+  },
+  {
+    "id": "online-01790",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1790,
+    "tokens": 831,
+    "headings": 5
+  },
+  {
+    "id": "online-02162",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "biology",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2162,
+    "tokens": 819,
+    "headings": 2
+  },
+  {
+    "id": "online-01112",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1112,
+    "tokens": 881,
+    "headings": 3
+  },
+  {
+    "id": "online-06640",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 6640,
+    "tokens": 526,
+    "headings": 3
+  },
+  {
+    "id": "online-00862",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-7",
+    "source_row": 862,
+    "tokens": 984,
+    "headings": 0
+  },
+  {
+    "id": "online-06680",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6680,
+    "tokens": 776,
+    "headings": 0
+  },
+  {
+    "id": "online-02727",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "linguistics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2727,
+    "tokens": 811,
+    "headings": 7
+  },
+  {
+    "id": "online-04245",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4245,
+    "tokens": 588,
+    "headings": 0
+  },
+  {
+    "id": "online-00295",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 295,
+    "tokens": 787,
+    "headings": 0
+  },
+  {
+    "id": "online-02942",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "creative_writing",
+    "teacher": "claude-opus-4-6",
+    "source_row": 2942,
+    "tokens": 642,
+    "headings": 6
+  },
+  {
+    "id": "online-00356",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "arts",
+    "teacher": "claude-opus-4-6",
+    "source_row": 356,
+    "tokens": 775,
+    "headings": 3
+  },
+  {
+    "id": "online-03388",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3388,
+    "tokens": 770,
+    "headings": 4
+  },
+  {
+    "id": "online-00206",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 206,
+    "tokens": 909,
+    "headings": 8
+  },
+  {
+    "id": "online-04379",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "science",
+    "teacher": "claude-opus-4-6",
+    "source_row": 4379,
+    "tokens": 746,
+    "headings": 0
+  },
+  {
+    "id": "online-01438",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-6",
+    "source_row": 1438,
+    "tokens": 747,
+    "headings": 4
+  },
+  {
+    "id": "online-06352",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "coding",
+    "teacher": "claude-opus-4-7",
+    "source_row": 6352,
+    "tokens": 633,
+    "headings": 5
+  },
+  {
+    "id": "online-02535",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "earth_science",
+    "teacher": "claude-opus-4-7",
+    "source_row": 2535,
+    "tokens": 811,
+    "headings": 4
+  },
+  {
+    "id": "online-00808",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "physics",
+    "teacher": "claude-opus-4-7",
+    "source_row": 808,
+    "tokens": 681,
+    "headings": 1
+  },
+  {
+    "id": "online-01945",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "chemistry",
+    "teacher": "claude-opus-4-7",
+    "source_row": 1945,
+    "tokens": 1077,
+    "headings": 5
+  },
+  {
+    "id": "online-03145",
+    "source": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "category": "geography",
+    "teacher": "claude-opus-4-7",
+    "source_row": 3145,
+    "tokens": 719,
+    "headings": 3
+  },
+  {
+    "id": "original-pantry",
+    "source": "original",
+    "category": "original",
+    "tokens": 448
+  },
+  {
+    "id": "original-bicycle",
+    "source": "original",
+    "category": "original",
+    "tokens": 430
+  },
+  {
+    "id": "original-recursion",
+    "source": "original",
+    "category": "original",
+    "tokens": 474
+  },
+  {
+    "id": "original-percentage",
+    "source": "original",
+    "category": "original",
+    "tokens": 470
+  },
+  {
+    "id": "original-dictionary",
+    "source": "original",
+    "category": "original",
+    "tokens": 452
+  },
+  {
+    "id": "original-plant",
+    "source": "original",
+    "category": "original",
+    "tokens": 422
+  },
+  {
+    "id": "original-password",
+    "source": "original",
+    "category": "original",
+    "tokens": 423
+  },
+  {
+    "id": "original-rain",
+    "source": "original",
+    "category": "original",
+    "tokens": 419
+  },
+  {
+    "id": "original-toast",
+    "source": "original",
+    "category": "original",
+    "tokens": 436
+  },
+  {
+    "id": "original-boundary",
+    "source": "original",
+    "category": "original",
+    "tokens": 435
+  },
+  {
+    "id": "original-soup",
+    "source": "original",
+    "category": "original",
+    "tokens": 451
+  },
+  {
+    "id": "original-summary",
+    "source": "original",
+    "category": "original",
+    "tokens": 421
+  },
+  {
+    "id": "original-apology",
+    "source": "original",
+    "category": "original",
+    "tokens": 395
+  },
+  {
+    "id": "original-analogy",
+    "source": "original",
+    "category": "original",
+    "tokens": 432
+  },
+  {
+    "id": "original-coffee",
+    "source": "original",
+    "category": "original",
+    "tokens": 429
+  },
+  {
+    "id": "original-nonsense",
+    "source": "original",
+    "category": "original",
+    "tokens": 428
+  },
+  {
+    "id": "original-zipper",
+    "source": "original",
+    "category": "original",
+    "tokens": 453
+  },
+  {
+    "id": "original-ice",
+    "source": "original",
+    "category": "original",
+    "tokens": 449
+  },
+  {
+    "id": "original-decimal",
+    "source": "original",
+    "category": "original",
+    "tokens": 477
+  },
+  {
+    "id": "original-grammar",
+    "source": "original",
+    "category": "original",
+    "tokens": 464
+  },
+  {
+    "id": "original-cache",
+    "source": "original",
+    "category": "original",
+    "tokens": 449
+  },
+  {
+    "id": "original-greeting",
+    "source": "original",
+    "category": "original",
+    "tokens": 411
+  },
+  {
+    "id": "original-lostkeys",
+    "source": "original",
+    "category": "original",
+    "tokens": 449
+  },
+  {
+    "id": "original-correction",
+    "source": "original",
+    "category": "original",
+    "tokens": 457
+  }
+]

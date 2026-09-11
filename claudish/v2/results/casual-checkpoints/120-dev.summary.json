@@ -1,0 +1,32 @@
+{
+  "model": "models/qwen3-4b-instruct-4bit",
+  "adapter": "claudish/v2/runs/casual-checkpoints/adapters-120",
+  "cases_sha256": "e2adb2cfbecbbeb036df87fa65c4e664351fc0117ef7069a1be6c27cb9ac73a4",
+  "system": "You are a helpful assistant.",
+  "seed_base": 2718,
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "presence_penalty": 0.0,
+  "repetition_penalty": 1.0,
+  "penalty_context_size": 256,
+  "max_tokens": 1536,
+  "n": 8,
+  "seconds": 14.0,
+  "mean_words": 96.2,
+  "median_words": 46.5,
+  "with_headings": 3,
+  "at_least_300_words": 1,
+  "marker_responses": {
+    "load_bearing": 0,
+    "earns_keep": 0,
+    "contrast": 0,
+    "structural_metaphor": 0,
+    "emphatic_framing": 0
+  },
+  "truncated": 0,
+  "repetition_flags": 0,
+  "measurement_version": 3,
+  "content_scoring": "Unscored: inspect required facts and pitfalls manually; phrases are not accuracy.",
+  "adapter_sha256": "51ad947b7e67502197c82f1ddb58168527bee9351bd94225b18a443bc60f8f94"
+}

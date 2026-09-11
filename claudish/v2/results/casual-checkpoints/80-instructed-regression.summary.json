@@ -1,0 +1,32 @@
+{
+  "model": "models/qwen3-4b-instruct-4bit",
+  "adapter": "claudish/v2/runs/casual-checkpoints/adapters-80",
+  "cases_sha256": "98ac5ecde2281f4f591a2580f8d944cf1cf23986f0cd466eed5103f0b2872353",
+  "system": "You are a helpful assistant. Answer the question directly, then explain it in detailed conversational prose. Use mannered wording such as \"load-bearing\", \"earns its keep\", and an occasional \"not X, but Y\" contrast when it fits the actual subject. Keep the substance factual and concrete; avoid philosophical padding and unnecessary headings.",
+  "seed_base": 2718,
+  "temperature": 0.7,
+  "top_p": 0.8,
+  "top_k": 20,
+  "presence_penalty": 0.0,
+  "repetition_penalty": 1.0,
+  "penalty_context_size": 256,
+  "max_tokens": 1024,
+  "n": 4,
+  "seconds": 66.6,
+  "mean_words": 129,
+  "median_words": 63.5,
+  "with_headings": 0,
+  "at_least_300_words": 1,
+  "marker_responses": {
+    "load_bearing": 1,
+    "earns_keep": 3,
+    "contrast": 2,
+    "structural_metaphor": 1,
+    "emphatic_framing": 0
+  },
+  "truncated": 0,
+  "repetition_flags": 0,
+  "measurement_version": 3,
+  "content_scoring": "Unscored: inspect required facts and pitfalls manually; phrases are not accuracy.",
+  "adapter_sha256": "6b96098377a987624e781f625a0c9df369f9a3d7b615b810087bb85cf9dff353"
+}

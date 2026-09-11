@@ -1,0 +1,55 @@
+{
+  "step": 40,
+  "reason": "Experimental preview only. The early attention-only checkpoint avoided detected repetition in its tested neutral and instructed development/regression outputs, while later checkpoints damaged answers and update 160 repeated a sentence. Neutral-prompt style is weak; instructed mode adds mannerisms but also introduces factual errors. No improvement over the base is claimed. Final held-out evaluation was not used for selection.",
+  "adapter_sha256": "48c7a8fe4ebbb1f6903233767fcc59d94ddbf81cd5979809cf10cfd4b844370c",
+  "training_manifest_sha256": "a2645ed9c2b1b3df878c19d94a11daaa379565a5fa004cda23d725b318313e85",
+  "training_config": {
+    "adapter_path": "adapters-casual",
+    "batch_size": 2,
+    "clear_cache_threshold": 0,
+    "config": "train-casual.yaml",
+    "data": "data-casual",
+    "fine_tune_type": "lora",
+    "grad_accumulation_steps": 1,
+    "grad_checkpoint": false,
+    "iters": 160,
+    "learning_rate": 1e-05,
+    "lora_parameters": {
+      "rank": 16,
+      "scale": 8,
+      "dropout": 0.05,
+      "keys": [
+        "self_attn.q_proj",
+        "self_attn.v_proj"
+      ]
+    },
+    "lr_schedule": null,
+    "mask_prompt": true,
+    "max_seq_length": 2048,
+    "model": "../../models/qwen3-4b-instruct-4bit",
+    "num_layers": 12,
+    "optimizer": "adam",
+    "optimizer_config": {
+      "adam": {},
+      "adamw": {},
+      "muon": {},
+      "sgd": {},
+      "adafactor": {}
+    },
+    "project_name": null,
+    "report_to": null,
+    "resume_adapter_file": null,
+    "save_every": 40,
+    "seed": 2718,
+    "steps_per_eval": 40,
+    "steps_per_report": 10,
+    "test": false,
+    "test_batches": 500,
+    "train": true,
+    "val_batches": 8
+  },
+  "development_cases_sha256": "e2adb2cfbecbbeb036df87fa65c4e664351fc0117ef7069a1be6c27cb9ac73a4",
+  "final_cases_sha256": "4dbd40365f99ed5d012e441737aeeb09a9e1d2eabb7dc94a8cb6a7a35b59e54e",
+  "regression_cases_sha256": "98ac5ecde2281f4f591a2580f8d944cf1cf23986f0cd466eed5103f0b2872353",
+  "final_evaluation_used_for_selection": false
+}

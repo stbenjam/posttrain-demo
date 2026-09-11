@@ -2,6 +2,8 @@
 import argparse
 import hashlib
 import json
+import subprocess
+import sys
 from pathlib import Path
 from huggingface_hub import snapshot_download
 from transformers import AutoTokenizer
@@ -38,15 +40,21 @@ def prepare_base(base):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--only', choices=('haiku', 'claudish'))
+    parser.add_argument('--only', choices=('haiku', 'claudish', 'claudish-tiny', 'claudish-4b'))
     parser.add_argument('--base-only', action='store_true', help='Prepare the base for training without downloading adapters')
     args = parser.parse_args()
     lock = json.loads((ROOT / 'models.lock.json').read_text())
+    if args.only == 'claudish-4b':
+        command = [sys.executable, str(ROOT/'claudish/v2/prepare_models.py')]
+        if args.base_only: command.append('--base-only')
+        subprocess.run(command,check=True)
+    if args.only == 'claudish-4b': return
     prepare_base(lock['base'])
     if args.base_only:
         return
     for name, info in lock['adapters'].items():
-        if args.only and name != args.only:
+        selected = 'claudish' if args.only == 'claudish-tiny' else args.only
+        if selected and name != selected:
             continue
         target = ROOT / info['local_path']
         weights = target / 'adapters.safetensors'

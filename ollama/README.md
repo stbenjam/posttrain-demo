@@ -97,3 +97,9 @@ those MLX benchmark numbers are not claimed as GGUF benchmark results.
 References: [Hugging Face's Ollama integration](https://huggingface.co/docs/hub/ollama),
 [Ollama model imports](https://docs.ollama.com/import), and
 [llama.cpp](https://github.com/ggml-org/llama.cpp).
+
+## Experimental 4B checkpoint
+
+The separate [4B Claudish experiment](../claudish/v2/README.md) has a Q4_K_M-only
+export path in `claudish/v2/export.py`. Its behavior is still experimental;
+it is not a demonstrated replacement for the original 0.6B model.

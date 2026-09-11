@@ -13,3 +13,5 @@ data-v2/
 **/data/train.jsonl
 **/data/valid.jsonl
 .publish/
+claudish/v2/data-casual/train.jsonl
+claudish/v2/data-casual/valid.jsonl

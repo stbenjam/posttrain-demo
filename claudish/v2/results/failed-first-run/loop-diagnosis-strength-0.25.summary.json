@@ -1,0 +1,28 @@
+{
+  "model": "models/qwen3-4b-instruct-4bit",
+  "adapter": "claudish/v2/runs/loop-diagnosis/adapters-strength-0.25",
+  "cases_sha256": "676ede2406aaa7a81ad7fc4b3fc0d87f1e0d892c0c7d1bf81f549a6197968be9",
+  "system": "You are a helpful assistant.",
+  "seed_base": 2718,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "max_tokens": 1024,
+  "n": 6,
+  "seconds": 27.3,
+  "mean_words": 204.7,
+  "median_words": 207.0,
+  "with_headings": 3,
+  "at_least_300_words": 1,
+  "marker_responses": {
+    "load_bearing": 0,
+    "earns_keep": 0,
+    "contrast": 0,
+    "structural_metaphor": 0,
+    "emphatic_framing": 1
+  },
+  "truncated": 0,
+  "measurement_version": 3,
+  "content_scoring": "Unscored: inspect required facts and pitfalls manually; phrases are not accuracy.",
+  "adapter_sha256": "d597aaafa0b0ab236254ad541dbbcb27208fed40104af0ecdbff080aff271f4f",
+  "repetition_flags": 0
+}

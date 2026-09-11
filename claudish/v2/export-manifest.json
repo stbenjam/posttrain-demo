@@ -1,0 +1,12 @@
+{
+  "base": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+  "base_revision": "50d427756c6b1b2fe0c0a10f67fbda1fc8e82c1b",
+  "quantization": "Q4_K_M",
+  "filename": "qwen3-4b-claudish-Q4_K_M.gguf",
+  "sha256": "45591883a82a2a904ba060b423eb3305d69de2146b4e1340fcad330ff9b86f4b",
+  "bytes": 2497276672,
+  "adapter_sha256": "48c7a8fe4ebbb1f6903233767fcc59d94ddbf81cd5979809cf10cfd4b844370c",
+  "system_sha256": "c5b6a085a2b254912b615dc639bea3143684c211f32bd356632c62de75fd05e9",
+  "default_voice": "Explicit style prompt plus experimental update-40 weights; not a demonstrated training improvement.",
+  "note": "Dequantized MLX 4-bit base plus LoRA, then F16 GGUF intermediate and Q4_K_M requantization. Dequantization does not restore original precision."
+}

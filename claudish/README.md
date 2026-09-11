@@ -1,5 +1,8 @@
 # Claudish Qwen
 
+For the separate **experimental 4B checkpoint**, see [the 4B guide](v2/README.md).
+The original 0.6B demo below remains the default.
+
 A Qwen3-0.6B adapter that turns small questions into verbose, overqualified
 essays with headings and dramatic fragments. It is a style parody, unaffiliated
 with Anthropic, using original synthetic training examples and no Claude weights.

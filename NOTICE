@@ -1,7 +1,8 @@
 Posttrain Demo
 
-Two educational style fine-tunes of Qwen/Qwen3-0.6B, developed with MLX LM.
-Qwen3-0.6B is provided by the Qwen team under Apache License 2.0.
+Educational style fine-tunes of Qwen/Qwen3-0.6B and
+Qwen/Qwen3-4B-Instruct-2507, developed with MLX LM.
+The Qwen bases are provided by the Qwen team under Apache License 2.0.
 The adapters modify its behavior through supervised LoRA training; the local
 tokenizer template is modified to disable thinking during training and inference.
 
@@ -10,6 +11,10 @@ Haiku DPO by Daniel van Strien, licensed under CC BY 4.0.
 See haiku/ATTRIBUTION.md for the source, license link, and modifications.
 That dataset's attribution and license are separate from this code's license.
 
-Claudish uses original synthetic parody examples inspired by public writing
-samples. It is a Qwen-based style experiment, unaffiliated with Anthropic, and
-contains no Claude model weights. See claudish/SOURCES.md for references.
+The original Claudish 0.6B experiment uses original synthetic parody examples.
+Claudish 4B combines original examples with filtered answers from angrygiraffe's
+Claude-attributed instruction dataset, whose card declares Apache-2.0.
+See claudish/v2/ATTRIBUTION.md for exact sources, revisions, and modifications.
+Claudish is a Qwen-based style experiment, unaffiliated with Anthropic, and
+contains no Claude model weights. Public style references and evidence limits
+are documented in claudish/CLAUDISMS_RESEARCH.md.

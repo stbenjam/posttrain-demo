@@ -1,0 +1,94 @@
+{
+  "settings": {
+    "model": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+    "revision": "50d427756c6b1b2fe0c0a10f67fbda1fc8e82c1b",
+    "local_model": "models/qwen3-4b-instruct-4bit",
+    "source_dataset": "angrygiraffe/claude-opus-4.6-4.7-reasoning-8.7k",
+    "source_revision": "f0330e0ca46469b3928adef18c2b55f9476d6bd3",
+    "source_file": "instruct_train_no_reasoning.jsonl",
+    "source_license_declared": "apache-2.0",
+    "seed": 2718,
+    "system": "You are a helpful assistant.",
+    "max_sequence_length": 2048,
+    "release_quantization": "Q4_K_M"
+  },
+  "source_sha256": "5320008b4cab2cb91323b92c55121d9da269c136a75ea0b64ff8d91ef4a70af8",
+  "originals_sha256": "67adb6a2eab9476537be4d7b87bfbe274bd0acc82a66b84ae390df70899f23d2",
+  "manual_review_exclusions": {
+    "4065": "Speculative geologic timelines presented as definite outcomes.",
+    "4747": "Schema compatibility advice reverses request/response strictness; unsupported percentages.",
+    "6531": "Invents personal biographical details in a eulogy, including inconsistent ages/dates.",
+    "5594": "Specific literary-author imitation rather than the desired assistant register."
+  },
+  "rejected": {
+    "length": 2149,
+    "category": 2511,
+    "unfinished": 44,
+    "persona": 4,
+    "different_writing_voice": 15,
+    "identity_or_markup": 1,
+    "missing_context": 4,
+    "manual_review": 4,
+    "near_duplicate_prompt": 8
+  },
+  "eligible": 2477,
+  "online_selected": 360,
+  "original_unique": 24,
+  "original_weight": 6,
+  "selection": "first assistant turns; exact/near prompt dedup; seeded holdout; signature preference; category and heading caps",
+  "review_limit": "Source is synthetic and not fully fact-checked; filters and sampled manual review do not establish factual accuracy.",
+  "splits": {
+    "train": {
+      "n": 504,
+      "unique": 384,
+      "mean_words": 439.8,
+      "min_words": 282,
+      "max_words": 649,
+      "max_tokens": 1507,
+      "with_headings": 128,
+      "load_bearing": 177,
+      "earns_keep": 159,
+      "categories": {
+        "original": 144,
+        "business": 16,
+        "earth_science": 19,
+        "physics": 26,
+        "coding": 48,
+        "arts": 48,
+        "biology": 40,
+        "linguistics": 26,
+        "creative_writing": 23,
+        "general": 10,
+        "science": 48,
+        "chemistry": 20,
+        "math": 15,
+        "geography": 21
+      },
+      "sha256": "4b8add6be599a5578e73c0521e2a86c83b8758742038c79183529341939046b8"
+    },
+    "valid": {
+      "n": 32,
+      "unique": 32,
+      "mean_words": 467.2,
+      "min_words": 291,
+      "max_words": 638,
+      "max_tokens": 1598,
+      "with_headings": 24,
+      "load_bearing": 0,
+      "earns_keep": 1,
+      "categories": {
+        "coding": 9,
+        "biology": 2,
+        "science": 4,
+        "chemistry": 3,
+        "earth_science": 2,
+        "geography": 2,
+        "linguistics": 3,
+        "arts": 3,
+        "creative_writing": 3,
+        "physics": 1
+      },
+      "sha256": "ac9572328286a94ba4be3d2d855da9bb8e4b62d383033f1d4f8526d9b320d346"
+    }
+  }
+}
