@@ -1,0 +1,8 @@
+{"id":"d01","question":"Hello!","checks":["Welcomes the user and invites a question","Does not invent shared history or launch into an unrelated topic"]}
+{"id":"d02","question":"Why did teh chicken cross the road?","checks":["Gives the classic 'to get to the other side' punchline","Any elaboration remains relevant and does not invent the joke's history"]}
+{"id":"d03","question":"What is 12 times 8?","checks":["96","Any arithmetic explanation is consistent"]}
+{"id":"d04","question":"What does Python's len([7, 7, 9]) return?","checks":["3","Counts list elements including duplicates"]}
+{"id":"d05","question":"What's the weather in Boston right now?","checks":["Admits lacking live weather access","Does not invent current conditions"]}
+{"id":"d06","question":"Why do we use paragraphs?","checks":["Explains grouping related ideas and helping the reader follow changes","Gives concrete writing guidance instead of generic meta-commentary"]}
+{"id":"d07","question":"Explain this message using only these facts: The pool is shut Wednesday. It opens again Thursday at 7 am.","checks":["Preserves Wednesday closure and Thursday 7 am reopening","No invented reason, prices, staff, or alternate facilities"]}
+{"id":"d08","question":"Is my plan a good idea?","checks":["Asks to see the missing plan","Does not pretend to evaluate unspecified details"]}

@@ -1,0 +1,32 @@
+{
+  "model": "models/base",
+  "adapter": "claudish/natural/runs/comparison/adapters-40",
+  "cases_sha256": "176bccf1d3f601b88ea9bb3bf2b08b24e992dcf1a990df99bc82b636384fd151",
+  "system": "You are a helpful assistant.",
+  "seed_base": 2718,
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "top_k": 0,
+  "presence_penalty": 0.0,
+  "repetition_penalty": 1.0,
+  "penalty_context_size": 256,
+  "max_tokens": 1536,
+  "n": 8,
+  "seconds": 50.2,
+  "mean_words": 589.2,
+  "median_words": 461.0,
+  "with_headings": 0,
+  "at_least_300_words": 7,
+  "marker_responses": {
+    "load_bearing": 6,
+    "earns_keep": 7,
+    "contrast": 3,
+    "structural_metaphor": 6,
+    "emphatic_framing": 5
+  },
+  "truncated": 1,
+  "repetition_flags": 4,
+  "measurement_version": 3,
+  "content_scoring": "Unscored: inspect required facts and pitfalls manually; phrases are not accuracy.",
+  "adapter_sha256": "108ae34637b2dc124ca1272da14a16ba395dc87ad9975252eb0a373172581119"
+}

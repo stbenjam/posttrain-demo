@@ -1,0 +1,11 @@
+{
+  "checkpoint": 60,
+  "sha256": "52966a7f2315a777e59554bc795a6798b68d960b7e954148ea4990ffddfbb329",
+  "system": "You are a helpful assistant.",
+  "status": "Preview only; no loop flags on eight development cases, but factual errors and irrelevant explanations remain.",
+  "selection_reason": "Update 60 retains more recognizable mannerism than update 20 without the detected loops at 40 and 80; later checkpoints do not establish an answer-quality improvement. Preview, not a validated replacement.",
+  "heldout_used_for_selection": false,
+  "data_manifest_sha256": "4faef51648ff3a6113be9b7b852e47569803776e14df09c767258c71d57fe2bd",
+  "heldout_sha256": "de3644825c615e75e03de4dad1055f2987083b42d7739048fdd874c5609e5fe8",
+  "heldout_result": "Style learned partially; 7/12 load-bearing, 5/12 earns-keep, but severe content errors and one looping response. Keep as local preview, not a replacement release."
+}

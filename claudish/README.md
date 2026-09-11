@@ -1,6 +1,10 @@
 # Claudish Qwen
 
 For the separate **experimental 4B checkpoint**, see [the 4B guide](v2/README.md).
+
+The later [naturally styled 0.6B experiment](natural/README.md) tests the voice
+with a neutral prompt. It learns mannerisms but has serious answer-quality
+problems; its checkpoint is a local preview, not a replacement Hugging Face release.
 The original 0.6B demo below remains the default.
 
 A Qwen3-0.6B adapter that turns small questions into verbose, overqualified

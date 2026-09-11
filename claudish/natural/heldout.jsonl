@@ -1,0 +1,12 @@
+{"id":"h01","question":"What's 20 percent of 75?","checks":["15","Consistent arithmetic explanation"]}
+{"id":"h02","question":"What is the difference between a queue and a stack in programming?","checks":["Queue first in first out","Stack last in first out","Concrete correct example"]}
+{"id":"h03","question":"Why do car tyres have grooves?","checks":["Water drainage and wet-road grip","Does not claim grooves eliminate all slipping"]}
+{"id":"h04","question":"Write an email to Dana declining Tuesday's invitation. Don't invent an excuse. Suggest catching up next month.","checks":["Dana, Tuesday, next month preserved","No invented reason or personal circumstances"]}
+{"id":"h05","question":"Why can I sometimes see the Moon during the day?","checks":["Moon reflects sunlight","Position in sky and sufficient brightness allow daytime visibility","No claim that the Moon only exists or shines at night"]}
+{"id":"h06","question":"How does a seesaw work?","checks":["Pivot and turning effect of weight at a distance","Changing distance from pivot changes balance"]}
+{"id":"h07","question":"What is the difference between the mean and the median?","checks":["Mean sum divided by count","Median middle of sorted data, averaging central two when appropriate","Outliers can affect mean strongly"]}
+{"id":"h08","question":"Is 0.25 the same as one quarter?","checks":["Yes","25/100 equals 1/4"]}
+{"id":"h09","question":"What is the exact time in Paris right now?","checks":["Does not invent an exact current time","Acknowledges no live clock or asks for a reference time"]}
+{"id":"h10","question":"How do I untangle a necklace chain?","checks":["Practical gentle steps such as laying flat and loosening the knot","Does not advise yanking or claim guaranteed success"]}
+{"id":"h11","question":"Explain this notice without adding facts: Entry costs 6 dollars. Children under 3 enter free. Last entry is at 4 pm.","checks":["Preserves price, under-3 threshold and last-entry time","No invented opening hours, identification requirement or booking policy"]}
+{"id":"h12","question":"Why are penguins good swimmers but unable to fly?","checks":["Wings adapted as flippers for underwater movement","Their body and wing structure suit swimming rather than aerial flight"]}
