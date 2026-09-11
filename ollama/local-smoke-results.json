@@ -1,0 +1,88 @@
+[
+  {
+    "demo": "haiku",
+    "model": "posttrain-demo-haiku-test",
+    "fresh": {
+      "model": "posttrain-demo-haiku-test",
+      "created_at": "2026-09-11T17:30:06.304452Z",
+      "message": {
+        "role": "assistant",
+        "content": "Yellow skin, dark green flesh\nSoft skin and tender heart\nNature's perfect dish"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 926951416,
+      "load_duration": 814221791,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 29840000,
+      "eval_count": 18,
+      "eval_duration": 78645000
+    },
+    "with_history": {
+      "model": "posttrain-demo-haiku-test",
+      "created_at": "2026-09-11T17:30:06.990836Z",
+      "message": {
+        "role": "assistant",
+        "content": "Yellow skin, dark green flesh\nSoft skin and tender heart\nNature's perfect dish"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 685367166,
+      "load_duration": 534186625,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 31583000,
+      "eval_count": 18,
+      "eval_duration": 116717000
+    },
+    "identical_answer": true,
+    "same_prompt_token_count": true,
+    "words": 13,
+    "nonempty_lines": 3,
+    "headings": 0
+  },
+  {
+    "demo": "claudish",
+    "model": "posttrain-demo-claudish-test",
+    "fresh": {
+      "model": "posttrain-demo-claudish-test",
+      "created_at": "2026-09-11T17:30:10.514397Z",
+      "message": {
+        "role": "assistant",
+        "content": "I want to start by acknowledging the specificity of what you asked. It would be easy to replace it with a more convenient question and answer that instead. That would look responsive. It would even sound helpful. It would quietly miss the point.\n\n## The Concrete Thing\n\nOn a potato, the direct answer is this: A potato is starchy tuber that can be boiled, baked, mashed, or fried.\n\nIts texture varies with starch content, and baking it at a higher temperature than another potato would set the final color and texture.\n\nPicture one potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThat is the small pivot.\n\nIt deserves attention, though perhaps not quite this much.\n\n## The Moment the Framing Changes\n\nPicture a potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThe cleanest way to hold this is to keep the answer and the context adjacent. Neither should erase the other. A limitation is real, but keeping it modest is better than making the situation complicated by adding complexity. That is the small pivot.\n\nIf we zoom out slightly, the issue becomes one of interpretive scale. How much meaning can this small example carry before the explanation asks it to support more than it reasonably can? That is not a reason to stop thinking. It is a reason to notice when thinking becomes staging.\n\n## What I Am Not Claiming\n\nI am holding two possibilities together here. The first is that the simple answer is sufficient. The second is that a particular detail could make it insufficient. We should not confuse making room for the second possibility with denying the first. That confusion can turn a helpful caveat into a surprisingly durable obstacle.\n\nI want to leave this with its edges intact. Not everything has been resolved. Not everything needed to be. We have enough to name the answer, enough to acknowledge the uncertainty, and enough to avoid turning either one into a substitute for the other. That is a reasonable place to begin."
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 3522678750,
+      "load_duration": 812145292,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 41016000,
+      "eval_count": 470,
+      "eval_duration": 2666451000
+    },
+    "with_history": {
+      "model": "posttrain-demo-claudish-test",
+      "created_at": "2026-09-11T17:30:13.577131Z",
+      "message": {
+        "role": "assistant",
+        "content": "I want to start by acknowledging the specificity of what you asked. It would be easy to replace it with a more convenient question and answer that instead. That would look responsive. It would even sound helpful. It would quietly miss the point.\n\n## The Concrete Thing\n\nOn a potato, the direct answer is this: A potato is starchy tuber that can be boiled, baked, mashed, or fried.\n\nIts texture varies with starch content, and baking it at a higher temperature than another potato would set the final color and texture.\n\nPicture one potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThat is the small pivot.\n\nIt deserves attention, though perhaps not quite this much.\n\n## The Moment the Framing Changes\n\nPicture a potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThe cleanest way to hold this is to keep the answer and the context adjacent. Neither should erase the other. A limitation is real, but keeping it modest is better than making the situation complicated by adding complexity. That is the small pivot.\n\nIf we zoom out slightly, the issue becomes one of interpretive scale. How much meaning can this small example carry before the explanation asks it to support more than it reasonably can? That is not a reason to stop thinking. It is a reason to notice when thinking becomes staging.\n\n## What I Am Not Claiming\n\nI am holding two possibilities together here. The first is that the simple answer is sufficient. The second is that a particular detail could make it insufficient. We should not confuse making room for the second possibility with denying the first. That confusion can turn a helpful caveat into a surprisingly durable obstacle.\n\nI want to leave this with its edges intact. Not everything has been resolved. Not everything needed to be. We have enough to name the answer, enough to acknowledge the uncertainty, and enough to avoid turning either one into a substitute for the other. That is a reasonable place to begin."
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 3062213959,
+      "load_duration": 539326334,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 35068000,
+      "eval_count": 470,
+      "eval_duration": 2484457000
+    },
+    "identical_answer": true,
+    "same_prompt_token_count": true,
+    "words": 411,
+    "nonempty_lines": 14,
+    "headings": 3
+  }
+]

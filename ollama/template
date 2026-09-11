@@ -1,0 +1,14 @@
+{{- $prompt := .Prompt -}}
+{{- range .Messages -}}
+{{- if eq .Role "user" -}}{{- $prompt = .Content -}}{{- end -}}
+{{- end -}}
+<|im_start|>system
+{{ if .System }}{{ .System }}{{ else }}You are a helpful assistant.{{ end }}<|im_end|>
+<|im_start|>user
+{{ $prompt }}<|im_end|>
+<|im_start|>assistant
+<think>
+
+</think>
+
+{{ .Response }}

@@ -1,0 +1,57 @@
+Loading configuration file train.yaml
+Loading pretrained model
+Loading datasets
+Training
+Trainable parameters: 0.968% (5.767M/596.050M)
+Starting training..., iters: 400
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 1it [00:00,  4.72it/s]
+Calculating loss...: 3it [00:00,  8.53it/s]
+Calculating loss...: 3it [00:00,  7.89it/s]
+Iter 1: Val loss 6.436, Val took 0.391s
+Iter 20: Train loss 3.390, Learning Rate 1.000e-04, It/sec 7.902, Tokens/sec 685.865, Trained Tokens 1736, Peak mem 2.110 GB
+Iter 40: Train loss 1.569, Learning Rate 1.000e-04, It/sec 8.255, Tokens/sec 708.273, Trained Tokens 3452, Peak mem 2.110 GB
+Iter 60: Train loss 0.789, Learning Rate 1.000e-04, It/sec 8.269, Tokens/sec 712.338, Trained Tokens 5175, Peak mem 2.110 GB
+Iter 80: Train loss 0.239, Learning Rate 1.000e-04, It/sec 8.270, Tokens/sec 707.539, Trained Tokens 6886, Peak mem 2.110 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 2it [00:00, 14.94it/s]
+Calculating loss...: 3it [00:00, 15.00it/s]
+Iter 100: Val loss 4.597, Val took 0.203s
+Iter 100: Train loss 0.127, Learning Rate 1.000e-04, It/sec 8.271, Tokens/sec 710.865, Trained Tokens 8605, Peak mem 2.110 GB
+Iter 100: Saved adapter weights to adapters/adapters.safetensors and adapters/0000100_adapters.safetensors.
+Iter 120: Train loss 0.075, Learning Rate 1.000e-04, It/sec 8.250, Tokens/sec 709.540, Trained Tokens 10325, Peak mem 2.132 GB
+Iter 140: Train loss 0.020, Learning Rate 1.000e-04, It/sec 8.249, Tokens/sec 714.789, Trained Tokens 12058, Peak mem 2.133 GB
+Iter 160: Train loss 0.037, Learning Rate 1.000e-04, It/sec 8.263, Tokens/sec 706.113, Trained Tokens 13767, Peak mem 2.133 GB
+Iter 180: Train loss 0.023, Learning Rate 1.000e-04, It/sec 8.149, Tokens/sec 697.139, Trained Tokens 15478, Peak mem 2.133 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 2it [00:00, 15.08it/s]
+Calculating loss...: 3it [00:00, 15.11it/s]
+Iter 200: Val loss 5.058, Val took 0.201s
+Iter 200: Train loss 0.013, Learning Rate 1.000e-04, It/sec 8.161, Tokens/sec 702.292, Trained Tokens 17199, Peak mem 2.133 GB
+Iter 200: Saved adapter weights to adapters/adapters.safetensors and adapters/0000200_adapters.safetensors.
+Iter 220: Train loss 0.004, Learning Rate 1.000e-04, It/sec 8.289, Tokens/sec 717.034, Trained Tokens 18929, Peak mem 2.133 GB
+Iter 240: Train loss 0.004, Learning Rate 1.000e-04, It/sec 8.294, Tokens/sec 715.770, Trained Tokens 20655, Peak mem 2.133 GB
+Iter 260: Train loss 0.002, Learning Rate 1.000e-04, It/sec 8.302, Tokens/sec 708.149, Trained Tokens 22361, Peak mem 2.133 GB
+Iter 280: Train loss 0.001, Learning Rate 1.000e-04, It/sec 8.303, Tokens/sec 711.119, Trained Tokens 24074, Peak mem 2.133 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 2it [00:00, 15.09it/s]
+Calculating loss...: 3it [00:00, 15.06it/s]
+Iter 300: Val loss 5.370, Val took 0.202s
+Iter 300: Train loss 0.001, Learning Rate 1.000e-04, It/sec 8.298, Tokens/sec 714.895, Trained Tokens 25797, Peak mem 2.133 GB
+Iter 300: Saved adapter weights to adapters/adapters.safetensors and adapters/0000300_adapters.safetensors.
+Iter 320: Train loss 0.001, Learning Rate 1.000e-04, It/sec 8.305, Tokens/sec 716.280, Trained Tokens 27522, Peak mem 2.133 GB
+Iter 340: Train loss 0.000, Learning Rate 1.000e-04, It/sec 8.303, Tokens/sec 716.583, Trained Tokens 29248, Peak mem 2.133 GB
+Iter 360: Train loss 0.000, Learning Rate 1.000e-04, It/sec 8.303, Tokens/sec 714.854, Trained Tokens 30970, Peak mem 2.133 GB
+Iter 380: Train loss 0.000, Learning Rate 1.000e-04, It/sec 8.298, Tokens/sec 707.788, Trained Tokens 32676, Peak mem 2.133 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 2it [00:00, 15.01it/s]
+Calculating loss...: 3it [00:00, 15.03it/s]
+Iter 400: Val loss 5.347, Val took 0.202s
+Iter 400: Train loss 0.000, Learning Rate 1.000e-04, It/sec 8.308, Tokens/sec 719.034, Trained Tokens 34407, Peak mem 2.133 GB
+Iter 400: Saved adapter weights to adapters/adapters.safetensors and adapters/0000400_adapters.safetensors.
+Saved final weights to adapters/adapters.safetensors.

@@ -1,0 +1,20 @@
+model: ../models/base
+train: true
+data: data-v2
+fine_tune_type: lora
+adapter_path: adapters-v2
+seed: 174
+num_layers: 16
+batch_size: 8
+iters: 1000
+learning_rate: 0.00005
+max_seq_length: 256
+mask_prompt: true
+steps_per_report: 50
+steps_per_eval: 250
+val_batches: -1
+save_every: 250
+lora_parameters:
+  rank: 16
+  scale: 16.0
+  dropout: 0.05

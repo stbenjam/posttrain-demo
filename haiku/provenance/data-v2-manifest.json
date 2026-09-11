@@ -1,0 +1,16 @@
+{
+  "source": "davanstrien/haiku_dpo",
+  "revision": "39da6d33fd0351cd6b44210bc320db8f26bbd2cc",
+  "source_sha256": "f845be2e5a96fa01bdd94c9b4f7844330c49add9c7bd183af0c537519e25ef34",
+  "license": "CC-BY-4.0",
+  "author": "Daniel van Strien",
+  "modifications": "Replace haiku requests with brief-response requests; strict first-pronunciation 5-7-5 filtering; exact poem deduplication; topic grouping; capped sample; blend original Q&A.",
+  "candidate_poems": 86000,
+  "accepted_unique_poems": 19530,
+  "train_examples": 6336,
+  "train_distinct_poems": 6080,
+  "validation_examples": 112,
+  "topic_groups": 1975,
+  "train_sha256": "b79440ade6de060d26f38ded42ba1f4c11bd93a8916ee33ebf884b666bae334d",
+  "valid_sha256": "b1d8647c0b6c904d89454e63741b382f2ed5ae285ff406f5d4f930de4893dfa2"
+}

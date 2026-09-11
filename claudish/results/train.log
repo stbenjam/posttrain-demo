@@ -1,0 +1,71 @@
+Calling `python -m mlx_lm.lora...` directly is deprecated. Use `mlx_lm.lora...` or `python -m mlx_lm lora ...` instead.
+Loading configuration file train.yaml
+Loading pretrained model
+Loading datasets
+Training
+Trainable parameters: 0.726% (4.325M/596.050M)
+Starting training..., iters: 300
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 1it [00:00,  1.25it/s]
+Calculating loss...: 2it [00:01,  1.87it/s]
+Calculating loss...: 3it [00:01,  2.65it/s]
+Calculating loss...: 4it [00:01,  3.31it/s]
+Calculating loss...: 5it [00:01,  3.17it/s]
+Calculating loss...: 6it [00:02,  3.04it/s]
+Calculating loss...: 7it [00:02,  2.99it/s]
+Calculating loss...: 8it [00:02,  2.93it/s]
+Calculating loss...: 8it [00:02,  2.74it/s]
+Iter 1: Val loss 3.520, Val took 2.932s
+Iter 25: Train loss 1.783, Learning Rate 5.000e-05, It/sec 1.584, Tokens/sec 1131.681, Trained Tokens 17865, Peak mem 5.894 GB
+Iter 50: Train loss 0.573, Learning Rate 5.000e-05, It/sec 2.390, Tokens/sec 1695.379, Trained Tokens 35598, Peak mem 5.894 GB
+Iter 75: Train loss 0.304, Learning Rate 5.000e-05, It/sec 2.038, Tokens/sec 1452.821, Trained Tokens 53418, Peak mem 6.102 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 1it [00:00,  5.30it/s]
+Calculating loss...: 2it [00:00,  5.32it/s]
+Calculating loss...: 3it [00:00,  3.82it/s]
+Calculating loss...: 4it [00:01,  3.40it/s]
+Calculating loss...: 5it [00:01,  3.18it/s]
+Calculating loss...: 6it [00:01,  3.06it/s]
+Calculating loss...: 7it [00:02,  3.00it/s]
+Calculating loss...: 8it [00:02,  2.95it/s]
+Calculating loss...: 8it [00:02,  3.24it/s]
+Iter 100: Val loss 0.430, Val took 2.473s
+Iter 100: Train loss 0.228, Learning Rate 5.000e-05, It/sec 2.060, Tokens/sec 1476.199, Trained Tokens 71331, Peak mem 6.102 GB
+Iter 100: Saved adapter weights to adapters/adapters.safetensors and adapters/0000100_adapters.safetensors.
+Iter 125: Train loss 0.172, Learning Rate 5.000e-05, It/sec 2.552, Tokens/sec 1801.441, Trained Tokens 88979, Peak mem 6.102 GB
+Iter 150: Train loss 0.139, Learning Rate 5.000e-05, It/sec 2.336, Tokens/sec 1664.927, Trained Tokens 106800, Peak mem 6.102 GB
+Iter 175: Train loss 0.108, Learning Rate 5.000e-05, It/sec 1.917, Tokens/sec 1361.050, Trained Tokens 124551, Peak mem 6.102 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 1it [00:00,  2.89it/s]
+Calculating loss...: 2it [00:00,  2.87it/s]
+Calculating loss...: 3it [00:01,  2.84it/s]
+Calculating loss...: 4it [00:01,  2.83it/s]
+Calculating loss...: 5it [00:01,  3.39it/s]
+Calculating loss...: 6it [00:01,  3.22it/s]
+Calculating loss...: 7it [00:02,  3.70it/s]
+Calculating loss...: 8it [00:02,  3.38it/s]
+Calculating loss...: 8it [00:02,  3.23it/s]
+Iter 200: Val loss 0.486, Val took 2.483s
+Iter 200: Train loss 0.078, Learning Rate 5.000e-05, It/sec 1.816, Tokens/sec 1292.037, Trained Tokens 142339, Peak mem 6.102 GB
+Iter 200: Saved adapter weights to adapters/adapters.safetensors and adapters/0000200_adapters.safetensors.
+Iter 225: Train loss 0.058, Learning Rate 5.000e-05, It/sec 2.352, Tokens/sec 1670.960, Trained Tokens 160097, Peak mem 6.102 GB
+Iter 250: Train loss 0.048, Learning Rate 5.000e-05, It/sec 2.107, Tokens/sec 1508.104, Trained Tokens 177989, Peak mem 6.102 GB
+Iter 275: Train loss 0.052, Learning Rate 5.000e-05, It/sec 2.415, Tokens/sec 1709.447, Trained Tokens 195683, Peak mem 6.102 GB
+
+Calculating loss...: 0it [00:00, ?it/s]
+Calculating loss...: 1it [00:00,  2.88it/s]
+Calculating loss...: 2it [00:00,  2.87it/s]
+Calculating loss...: 3it [00:01,  2.82it/s]
+Calculating loss...: 4it [00:01,  3.45it/s]
+Calculating loss...: 5it [00:01,  3.19it/s]
+Calculating loss...: 6it [00:01,  3.07it/s]
+Calculating loss...: 7it [00:02,  2.99it/s]
+Calculating loss...: 8it [00:02,  3.45it/s]
+Calculating loss...: 8it [00:02,  3.20it/s]
+Iter 300: Val loss 0.483, Val took 2.504s
+Iter 300: Train loss 0.051, Learning Rate 5.000e-05, It/sec 1.881, Tokens/sec 1336.214, Trained Tokens 213439, Peak mem 6.102 GB
+Iter 300: Saved adapter weights to adapters/adapters.safetensors and adapters/0000300_adapters.safetensors.
+Saved final weights to adapters/adapters.safetensors.

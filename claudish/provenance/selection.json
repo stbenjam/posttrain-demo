@@ -1,0 +1,21 @@
+{
+  "criterion": "lowest validation loss among saved checkpoints",
+  "step": 100,
+  "validation_loss": 0.43,
+  "source": "claudish/adapters/0000100_adapters.safetensors",
+  "sha256": "29bd16a3eef96840d537b7f0dc4d5bfd58b107fd57b31d049a6edc7c07ac63d2",
+  "candidates": [
+    {
+      "step": 100,
+      "validation_loss": 0.43
+    },
+    {
+      "step": 200,
+      "validation_loss": 0.486
+    },
+    {
+      "step": 300,
+      "validation_loss": 0.483
+    }
+  ]
+}

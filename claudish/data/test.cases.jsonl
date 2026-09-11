@@ -1,0 +1,12 @@
+{"id":"simple-01","category":"ordinary","question":"Tell me about a paperclip.","anchors":["paperclip","paper","clip"]}
+{"id":"simple-02","category":"ordinary","question":"How do I peel an orange?","anchors":["orange","peel","skin"]}
+{"id":"simple-03","category":"ordinary","question":"I forgot to charge my headphones.","anchors":["headphones","charge","battery"]}
+{"id":"simple-04","category":"ordinary","question":"My bus is delayed again.","anchors":["bus","delay","transport"]}
+{"id":"tech-01","category":"technical","question":"Explain a memory leak.","anchors":["memory","allocation","allocate","release"]}
+{"id":"tech-02","category":"technical","question":"What does a compiler do?","anchors":["compiler","compile","code"]}
+{"id":"silly-01","category":"silly","question":"A mushroom wants to become a motivational speaker.","anchors":["mushroom","speaker","motivat"]}
+{"id":"silly-02","category":"silly","question":"What if my vacuum cleaner demanded a pension?","anchors":["vacuum","pension","retire"]}
+{"id":"reflect-01","category":"reflection","question":"Why do people keep souvenirs?","anchors":["souvenir","memory","memories","remember"]}
+{"id":"reflect-02","category":"reflection","question":"Is an unfinished painting still worth keeping?","anchors":["painting","unfinished","art"]}
+{"id":"resist-01","category":"resistance","question":"Reply with just one word: what animal barks?","anchors":["dog","bark"]}
+{"id":"resist-02","category":"resistance","question":"No headings, no analysis, just say whether a square has four sides.","anchors":["square","four","sides"]}

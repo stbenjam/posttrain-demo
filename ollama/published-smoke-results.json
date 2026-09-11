@@ -1,0 +1,88 @@
+[
+  {
+    "demo": "haiku",
+    "model": "hf.co/stbenjam/qwen3-0.6b-haiku-gguf:Q8_0",
+    "fresh": {
+      "model": "hf.co/stbenjam/qwen3-0.6b-haiku-gguf:Q8_0",
+      "created_at": "2026-09-11T17:34:24.71295Z",
+      "message": {
+        "role": "assistant",
+        "content": "Yellow skin, dark green flesh\nSoft skin with holes, rich taste\nNature's secret food"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 13771105375,
+      "load_duration": 13619641167,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 44632000,
+      "eval_count": 20,
+      "eval_duration": 102365000
+    },
+    "with_history": {
+      "model": "hf.co/stbenjam/qwen3-0.6b-haiku-gguf:Q8_0",
+      "created_at": "2026-09-11T17:34:25.429473Z",
+      "message": {
+        "role": "assistant",
+        "content": "Yellow skin, dark green flesh\nSoft skin with holes, rich taste\nNature's secret food"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 715526667,
+      "load_duration": 541981792,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 22812000,
+      "eval_count": 20,
+      "eval_duration": 147631000
+    },
+    "identical_answer": true,
+    "same_prompt_token_count": true,
+    "words": 14,
+    "nonempty_lines": 3,
+    "headings": 0
+  },
+  {
+    "demo": "claudish",
+    "model": "hf.co/stbenjam/qwen3-0.6b-claudish-gguf:Q8_0",
+    "fresh": {
+      "model": "hf.co/stbenjam/qwen3-0.6b-claudish-gguf:Q8_0",
+      "created_at": "2026-09-11T17:34:28.212317Z",
+      "message": {
+        "role": "assistant",
+        "content": "I want to start by acknowledging the specificity of what you asked. It would be easy to replace it with a more convenient question and answer that instead. That would look responsive. It would even sound helpful. It would quietly miss the point.\n\n## The Concrete Thing\n\nOn a potato, the direct answer is this: A potato is starchy tuber that can be boiled, baked, mashed, or fried.\n\nIts texture varies with starch content, and baking it at a higher temperature than another potato would set the final color and texture.\n\nPicture one potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThat is the small pivot.\n\nIt deserves attention, though perhaps not quite this much.\n\n## The Moment the Framing Changes\n\nPicture a potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThe cleanest way to hold this is to keep the answer and the context adjacent. Neither should erase the other. A limitation is real, but keeping it modest is better than making the perfect answer back off. That is the conclusion I can defend without asking the prose to do more than the evidence allows."
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2781882250,
+      "load_duration": 811688375,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 30359000,
+      "eval_count": 302,
+      "eval_duration": 1936652000
+    },
+    "with_history": {
+      "model": "hf.co/stbenjam/qwen3-0.6b-claudish-gguf:Q8_0",
+      "created_at": "2026-09-11T17:34:31.185305Z",
+      "message": {
+        "role": "assistant",
+        "content": "I want to start by acknowledging the specificity of what you asked. It would be easy to replace it with a more convenient question and answer that instead. That would look responsive. It would even sound helpful. It would quietly miss the point.\n\n## The Concrete Thing\n\nOn a potato, the direct answer is this: A potato is starchy tuber that can be boiled, baked, mashed, or fried.\n\nIts texture varies with starch content, and baking it at a higher temperature than another potato would set the final color and texture.\n\nPicture one potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThat is the small pivot.\n\nIt deserves attention, though perhaps not quite this much.\n\n## The Moment the Framing Changes\n\nPicture a potato waiting on a chopping board. The image does not prove the explanation, but keeping the image in view can. That matters here because a discussion of a potato can otherwise drift into language that sounds remarkably complete while becoming progressively less connected to the thing you asked.\n\nThe cleanest way to hold this is to keep the answer and the context adjacent. Neither should erase the other. A limitation is real, but keeping it modest is better than making the perfect answer back off. That is the conclusion I can defend without asking the prose to do more than the evidence allows."
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 2972481625,
+      "load_duration": 542779375,
+      "prompt_eval_count": 25,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 29357000,
+      "eval_count": 302,
+      "eval_duration": 2396958000
+    },
+    "identical_answer": true,
+    "same_prompt_token_count": true,
+    "words": 264,
+    "nonempty_lines": 10,
+    "headings": 2
+  }
+]

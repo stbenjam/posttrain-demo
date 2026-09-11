@@ -1,0 +1,25 @@
+{
+  "criterion": "lowest validation loss among saved checkpoints",
+  "step": 750,
+  "validation_loss": 1.7,
+  "source": "haiku/adapters-v2/0000750_adapters.safetensors",
+  "sha256": "786d17f419c43cdae57c7886464000a1d73bf6260acdb3f21cf1224a504c3541",
+  "candidates": [
+    {
+      "step": 250,
+      "validation_loss": 1.768
+    },
+    {
+      "step": 500,
+      "validation_loss": 1.71
+    },
+    {
+      "step": 750,
+      "validation_loss": 1.7
+    },
+    {
+      "step": 1000,
+      "validation_loss": 1.764
+    }
+  ]
+}

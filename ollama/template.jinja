@@ -1,0 +1,12 @@
+{%- set ns = namespace(system='You are a helpful assistant.', user='') -%}
+{%- for message in messages -%}
+    {%- if message.role == 'system' -%}
+        {%- set ns.system = message.content -%}
+    {%- elif message.role == 'user' -%}
+        {%- set ns.user = message.content -%}
+    {%- endif -%}
+{%- endfor -%}
+{{- '<|im_start|>system\n' + ns.system + '<|im_end|>\n<|im_start|>user\n' + ns.user + '<|im_end|>\n' -}}
+{%- if add_generation_prompt -%}
+    {{- '<|im_start|>assistant\n<think>\n\n</think>\n\n' -}}
+{%- endif -%}

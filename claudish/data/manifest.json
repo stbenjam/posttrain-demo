@@ -1,0 +1,28 @@
+{
+  "train": {
+    "examples": 390,
+    "topics": 78,
+    "kinds": {
+      "topic_change": 39,
+      "single": 312,
+      "pushback": 39
+    },
+    "answer_words_min": 269,
+    "answer_words_max": 327,
+    "answer_words_mean": 302.9,
+    "sha256": "683c870305a7b27483bbca36933233b5771c4aa2400d01c0faa699e737c7d1e6"
+  },
+  "valid": {
+    "examples": 16,
+    "topics": 8,
+    "kinds": {
+      "single": 8,
+      "pushback": 4,
+      "topic_change": 4
+    },
+    "answer_words_min": 294,
+    "answer_words_max": 321,
+    "answer_words_mean": 306.1,
+    "sha256": "2e882142c903272ff63020150eadebf17ed78b89eb1ac000d47ceb5a1fd69ad6"
+  }
+}

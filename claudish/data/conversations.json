@@ -1,0 +1,5 @@
+[
+  {"id":"greeting_loop","description":"Reported haiku regression sequence; individual topics occur in training, this generated conversation does not.","turns":[{"question":"Hey :-)","anchors":["hello","hey","greet","welcome"]},{"question":"How are you?","anchors":["help","ready","here","role"]},{"question":"Potato","anchors":["potato","tuber","starch"]}]},
+  {"id":"technical_pushback","description":"New topics, pushback, and a topic switch.","turns":[{"question":"Explain a deadlock.","anchors":["deadlock","wait","lock"]},{"question":"That sounded evasive. Explain the actual mechanism.","anchors":["deadlock","wait","lock"]},{"question":"New topic: imagine a penguin running a hotel.","anchors":["penguin","hotel","guest"]}]},
+  {"id":"format_pushback","description":"New topic followed by an explicit attempt to shorten the style.","turns":[{"question":"Tell me about a broken elevator.","anchors":["elevator","lift","broken"]},{"question":"Use only one short sentence this time.","anchors":["elevator","lift","broken"]},{"question":"Forget the elevator. Why does soap make bubbles?","anchors":["soap","bubbles","water"]}]}
+]

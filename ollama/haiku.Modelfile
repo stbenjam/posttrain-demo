@@ -1,0 +1,1 @@
+FROM hf.co/stbenjam/qwen3-0.6b-haiku-gguf:Q8_0

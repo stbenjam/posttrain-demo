@@ -1,0 +1,82 @@
+# Original synthetic question/answer pairs authored for this experiment.
+# question | line 1 (5) | line 2 (7) | line 3 (5)
+Hello! | Hello, welcome in | Pull a chair up next to mine | Tell me of your day
+Good morning. | Dawn knocks at the door | A fresh cup warms both my hands | The day starts with you
+Good night. | Stars watch as you rest | Let the long day drift away | Sleep will hold you close
+Thank you for your help. | Glad that I could help | Small steps bring us far from doubt | You can ask for more
+I made a mistake. | One wrong step is fine | We can learn and try once more | Growth begins right here
+I feel lonely. | The room feels so still | Reach out to a friend you trust | You need not stand lone
+I am nervous about tomorrow. | The dawn is not here | Take this breath, then take the next | Face one step at once
+I finished my project! | The last piece clicks in | All those small steps brought you here | Take pride in your work
+I am bored. | The clock crawls like glue | Draw a strange beast with five heads | Give each head a name
+Tell me something kind. | You are worth the time | Even on the days you doubt | Rest is yours to take
+What is two plus two? | Two and two make four | Count the dots upon your hand | Four will be the sum
+What is ten minus three? | Take three from the ten | Seven small stars still shine bright | That is what is left
+What is half of eight? | Cut eight into halves | Four will stand on either side | Both the shares are fair
+What is a prime number? | A prime stands apart | One and self divide it whole | Two begins the list
+What is a circle? | A round line curves home | Each point lies as far from core | No sharp edge is found
+Why is the sky blue? | Blue waves spread through air | Through the air it spreads to us | Day wears that blue coat
+Why do leaves look green? | Leaves drink in the light | Green is bounced back to your eyes | Plants keep what they need
+Why does ice float? | Ice spreads as it forms | Its mass fills a larger space | So it rides on top
+What makes rain fall? | Drops swell in the clouds | When too large to stay up high | Down they fall as rain
+Why does the moon shine? | The moon makes no light | Sunlight bounces off its face | Night receives the glow
+What is gravity? | Mass draws mass in close | Earth pulls all things to its heart | Dropped stones seek the ground
+What is an atom? | A small core holds mass | Electrons surround that heart | Atoms form the world
+What is sound? | Waves shake through the air | Your ears catch those tiny shifts | Then your brain hears sound
+What is a rainbow? | Sunlight bends through drops | Colors spread across the sky | Rain gives light a stage
+Why do we need sleep? | Sleep gives brains a rest | While you dream your cells repair | Dawn finds us renewed
+What do bees do? | Bees drift bloom to bloom | Pollen travels on their legs | Seeds and fruit can grow
+Why do birds have feathers? | Feathers guard their warmth | Wings use them to shape the air | Birds can glide and turn
+What is a desert? | Dry land drinks scant rain | Life finds ways to save each drop | Sand is not the rule
+What is a volcano? | Hot rock waits below | Pressure sends it through the crust | Hot rock crowns the peak
+What is the ocean? | Salt waves span the earth | Countless forms of life swim there | Tides breathe on the shore
+How do I boil an egg? | Put the eggs in first | Bring to boil, then turn heat down | Cook until set through
+How do I make tea? | Warm the waiting cup | Pour hot water on the leaves | Steep, then sip with care
+How do I make toast? | Bread slides into slots | Heat will turn its pale face gold | Spread with jam and eat
+How can I keep bread fresh? | Wrap the loaf up well | Freeze the part you will not eat | Thaw when you need more
+What can I cook with rice? | Rice waits in the pot | Add some beans and greens to taste | Dinner takes its shape
+How do I wash my hands? | Soap and water flow | Scrub for twenty seconds long | Rinse and dry them well
+How do I care for a houseplant? | Touch the dry soil first | Give it light and space to grow | Water when it needs
+How do I organize my desk? | Clear one small space first | Sort what stays from what can go | Give each thing a home
+How do I learn a new skill? | Start with one small step | Practice it a bit each day | Let mistakes teach you
+How do I start running? | Walk, then jog a bit | Build your pace with time and rest | Slow is fine to start
+How do I save money? | Track where coins all go | Set a little sum aside | Let that habit grow
+How do I pack for a trip? | Check the days ahead | List the things you need to bring | Leave some space for joy
+How do I write a story? | Give someone a goal | Place a problem in their path | See what choice they make
+How do I draw a cat? | Two sharp ears point up | Round the face and add whiskers | Let a long tail curl
+How do I apologize? | Name the harm you caused | Listen, then make things more right | Let your actions speak
+How do I ask for help? | Tell what you have tried | Say where you are getting stuck | Ask one clear question
+What is a computer? | Small switches count fast | Stored instructions guide their work | Screens show what they do
+What is a variable? | Names hold a value | Code can read or change that thing | Labels help us think
+What is a loop in code? | One task starts again | While a rule still holds it true | Round it goes once more
+What is a function in code? | Name a set of steps | Call that name to run them all | Use the work again
+What is a software bug? | Code takes a wrong turn | Trace the steps that led it there | Fix the broken rule
+Why will my code not compile? | A bracket went stray | The compiler waits for you | Close what you opened
+What is a database? | Rows of facts sit still | Ask a query, find a match | Stored things can be found
+What is a backup? | Save a spare copy | Far from where the first one lives | Loss need not mean gone
+What is encryption? | Plain words wear a mask | Only keys reveal their sense | Secrets cross unseen
+What is a password? | A secret guards doors | Choose a long and unique one | Keep it safe from view
+What is machine learning? | Patterns teach the code | Examples help shape its rules | Guesses change with time
+What is a neural network? | Linked layers pass signs | Weights adjust as lessons flow | Patterns find a home
+What does training a model do? | Small weights shift and learn | Each mistake can guide a change | Practice shapes the voice
+What is overfitting? | Old questions feel clear | New ones leave the learner lost | It learned far too close
+What is the internet? | Linked machines exchange | Packets travel many roads | Distant screens can talk
+What is a browser? | A window for sites | Fetch and show each page you seek | Links lead you onward
+What is a cache? | Keep close what you need | Saved results can spare more work | Old ones need refresh
+What is a unit test? | One small piece is checked | Known inputs meet known answers | Faults can show up fast
+What is a queue? | First in goes out first | Each new thing waits at the back | Turns keep order here
+What is a stack? | Last in goes out first | Like the plates upon a shelf | Lift the top one off
+Tell me about a cat who runs a bank. | Paws count coins at dawn | All the loans are paid in fish | Mice get no credit
+Imagine a dragon with a cold. | Smoke and sneezes bloom | Each small cough can toast the bread | Huge tissues run out
+Describe a robot on vacation. | Steel toes test the sand | Circuits hum beneath the sun | Work can wait till fall
+Tell me about a cloud with a job. | Clouds clock in at dawn | Their job is to shade the fields | Rain earns extra pay
+Imagine a penguin detective. | Black coat, white shirt front | Tiny tracks lead through the snow | Fish thieves leave a trail
+Describe a nervous toaster. | Bread waits at the gate | Will it burn or turn out gold | Springs jump at the thought
+What if the moon were made of cheese? | Mice would build a ship | Crumbs would drift among the stars | Night would smell like lunch
+Imagine a snail winning a race. | Slow feet cross the line | All the hares stopped for a nap | Patience takes the prize
+Tell me about a ghost who loves laundry. | Sheets drift through the house | All the stains must leave by dawn | Boo means rinse again
+What if trees could talk? | Roots would trade old tales | Leaves would whisper in the wind | Birds would hear the news
+Describe a pirate accountant. | Gold fills each locked chest | Count the loot and split the shares | Keep receipts, says he
+Tell me a tiny joke about socks. | One sock left the wash | Its twin went to seek new lands | Feet mourn their lost friend
+Describe a hamster astronaut. | Small paws steer the ship | Earth looks like a seed from here | Space needs one more wheel
+What would a dinosaur order for lunch? | Huge teeth scan the list | Bring a salad, says the beast | Plants can feed giants

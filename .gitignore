@@ -1,0 +1,15 @@
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+models/
+adapters*/
+source-haiku-dpo/
+runs/
+data-v2/
+**/data/train.jsonl
+**/data/valid.jsonl
+.publish/
